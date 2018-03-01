@@ -1,0 +1,16 @@
+{
+  "name": "atd",
+  "version": "0.0.1",
+  "description": "development of about the day website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Stephen Steinbach",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
