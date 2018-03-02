@@ -5,13 +5,16 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/sirsteinbach/ATD_Workflow_2018.git"
   },
   "author": "Stephen Steinbach",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8"
   }
 }

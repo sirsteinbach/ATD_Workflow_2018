@@ -39,6 +39,7 @@ require("_php/checkpoints.php");
 	<link href="_img/universal/favicon.ico" rel="icon">
 </head>
 <body>
+	<?php echo $_SERVER['DOCUMENT_ROOT']; ?>
 	<div class="column row show-for-large space1em"></div><?php include("_php/navMain.php");?>
 	<div class="row collapse responsive-slider Bg333">
 		<div class="large-12 slides columns" data-group="slides">
@@ -655,16 +656,11 @@ require("_php/checkpoints.php");
 		</div>
 	</main><?php require("_php/footer.php"); ?>
 	<div class="column row show-for-large space2em"></div>
-	<script src="_js/F6.2.4/what-input.js">
-	</script>
-	<script src="_js/F6.2.4/foundation.js">
-	</script>
-	<script>
-	$(document).foundation();
-	</script>
-	<script src="_js/specific/megaOrbit.js">
-	</script>
-	<script src="_js/specific/megaOrbit_ini.js">
-	</script>
+	<!-- <script src="_js/F6.2.4/what-input.js"></script>
+	<script src="_js/F6.2.4/foundation.js"></script> -->
+	<script src="_js/F6/f6.js"></script>
+	<script>$(document).foundation();</script>
+	<script src="_js/specific/megaOrbit.js"></script>
+	<script src="_js/specific/megaOrbit_ini.js"></script>
 </body>
 </html>
