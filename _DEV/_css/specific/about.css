@@ -1,0 +1,47 @@
+.relativePOS {
+	position: relative;
+	margin: 0.5em auto 1em;
+}
+ @media screen and (min-width: 40em) {
+.usPlack {
+	position: absolute;
+	background: rgba(0,0,0,.3);
+	top: 16%;
+	width: 30%;
+	height: auto;
+	background-color: rgba(0,0,0,.6);
+	border-radius: .4em;
+	padding: 1em;
+}
+.usPlack h3, li span, .usPlack li a:hover {
+	color: orange;
+}
+.usPlack aside {
+	padding: .5em;
+	font-size: .96em;
+}
+.usPlack ul {
+	list-style: none;
+	margin: 0 -.25em;
+}
+.usPlack li {
+	color: #BBBBBB;
+	line-height: 1.25em;
+}
+.usPlack a, .usPlack a:visited {
+	color: #2EC6C9;
+}
+.Sonia {
+	left: 5%;
+}
+.Stephen {
+	right: 5%;
+	text-align: right;
+}
+}
+ @media screen and (min-width: 60em) {
+.usPlack {
+	top: 20%;
+	width: 22%
+}
+}

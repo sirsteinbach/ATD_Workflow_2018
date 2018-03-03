@@ -39,7 +39,7 @@ require("_php/checkpoints.php");
 	<link href="_img/universal/favicon.ico" rel="icon">
 </head>
 <body>
-	<?php echo $_SERVER['DOCUMENT_ROOT']; ?>
+	<!-- <?php echo $_SERVER['DOCUMENT_ROOT']; ?> -->
 	<div class="column row show-for-large space1em"></div><?php include("_php/navMain.php");?>
 	<div class="row collapse responsive-slider Bg333">
 		<div class="large-12 slides columns" data-group="slides">
@@ -627,22 +627,7 @@ require("_php/checkpoints.php");
 									<aside class="small-7 medium-6 large-12 columns end">
 										<h6 class="blog"><a class="nameSm" href="/blog/wedding-keh/" rel="bookmark" title="Keith &amp; Erica">Keith &amp; Erica</a> - Lake Oconee, GA</h6>
 									</aside>
-								</div><!--WP LATEST>
-              <!==? $cat_id=get_cat_ID('private');$excludes='1,86,90';?>
-              <!==? $args=array('post__not_in'=>$do_not_duplicate,'numberposts'=>1,'category__not_in'=>explode(',',$excludes),'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date");$postslist=get_posts($args);foreach($postslist as $post):setup_postdata($post);?>
-              <!==? $excerpt=get_the_excerpt();?>
-              <!==? $shortTitle=get_post_meta($post->ID,'shortTitle',true);?>
-              <div class="row">
-                <figure class="small-5 medium-4 large-12 columns feature"><a href="<!==? the_permalink();?>" title="<!==? the_title();?>">
-                  <!==? if(has_post_thumbnail()){the_post_thumbnail('dw-Recent');}?>
-                  </a></figure>
-                <aside class="small-7 medium-6 large-12 columns end">
-                  <h6 class="blog"><!==? the_date("M.Y");?><a class="nameSm" href="<!==? the_permalink();?>" rel="bookmark" title="<!==? the_title();?>"><!==? the_title();?></a> - Destin, FL</h6>
-                </aside>
-              </div>
-              <hr>
-              <!==? endforeach;?>
-              <!==END LATEST-->
+								</div>
 								<div class="row">
 									<div class="small-12 columns">
 										<a class="button expanded uppercase pushDown" href="/blog/">All Blogs</a>
@@ -656,8 +641,8 @@ require("_php/checkpoints.php");
 		</div>
 	</main><?php require("_php/footer.php"); ?>
 	<div class="column row show-for-large space2em"></div>
-	<!-- <script src="_js/F6.2.4/what-input.js"></script>
-	<script src="_js/F6.2.4/foundation.js"></script> -->
+	<!--<script src="_js/F6.2.4/what-input.js"></script>-->
+	<!--<script src="_js/F6.2.4/foundation.js"></script>-->
 	<script src="_js/F6/f6.js"></script>
 	<script>$(document).foundation();</script>
 	<script src="_js/specific/megaOrbit.js"></script>

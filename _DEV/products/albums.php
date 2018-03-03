@@ -23,7 +23,8 @@ require("../_php/checkpoints.php");
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<meta content="#22659C" name="theme-color">
 	<meta content="Stephen Steinbach" name="author">
-	<meta content="Foundation6.2.4" name="webBuild"><?php include_once($_SERVER["DOCUMENT_ROOT"]."/_php/googleAnalytics.php");?>
+	<meta content="Foundation6.2.4" name="webBuild">
+	<?php include_once($_SERVER["DOCUMENT_ROOT"]."/_php/googleAnalytics.php");?>
 	<link href="../_css/F6.2.4/foundation.css" rel="stylesheet">
 	<link href="../_css/F6.2.4/atd.css" rel="stylesheet">
 	<meta content="Wedding Photography Albums we offer, including Premium, Modern, and Coffee Table Books" name="description">
@@ -252,17 +253,12 @@ require("../_php/checkpoints.php");
 		</div>
 	</main><?php require("../_php/footer.php");?>
 	<div class="column row show-for-large space2em"></div>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js">
-	</script>
-	<script src="../_js/F6.2.4/what-input.js">
-	</script>
-	<script src="../_js/F6.2.4/foundation.js">
-	</script>
-	<script>
-    $(document).foundation();
-	</script>
-	<script src="../_js/specific/prodSlider.js">
-	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<!-- <script src="../_js/F6.2.4/what-input.js"></script>
+	<script src="../_js/F6.2.4/foundation.js"></script> -->
+	<script src="../_js/F6/f6.js"></script>
+	<script>$(document).foundation();</script>
+	<script src="../_js/specific/prodSlider.js"></script>
 	<script>
 	                 $(function () {
 	                   $("#Aspen").slippry({

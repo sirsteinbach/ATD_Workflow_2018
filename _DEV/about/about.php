@@ -14,7 +14,6 @@ setcookie("Visited",$visited,$expire,"/",".abouttheday.com");
 require("../_php/referer.php");
 require("../_php/checkpoints.php");
 ?>
-
 <!DOCTYPE html>
 <html lang="en" xml:lang="en" class="no-js">
   <head>
@@ -31,7 +30,7 @@ require("../_php/checkpoints.php");
     <link rel="stylesheet" href="/_css/F6.2.4/foundation.css">
     <link rel="stylesheet" href="/_css/F6.2.4/atd.css">
     <!--PAGE SPECIFIC-->
-	<title>Wedding Photography | About The Day | Meet the Photographers</title>
+	  <title>Wedding Photography | About The Day | Meet the Photographers</title>
     <meta name="description" content="Meet Stephen & Sonia, the Wedding Photography Dynamic Duo. This husband and wife team wants to be your wedding photographers">
     <meta name="keywords" content="Husband and wife photographers, photography team, dynamic duo, second shooter, equally matched">
     <link rel="stylesheet" href="/_css/specific/about.css">
@@ -124,9 +123,9 @@ require("../_php/checkpoints.php");
 
   <!--FLOORSPACE-->
   <div class="column row show-for-large space2em"></div>
-
-  <script src="/_js/F6.2.4/what-input.js"></script>
-  <script src="/_js/F6.2.4/foundation.js"></script>
+  <!-- <script src="/_js/F6.2.4/what-input.js"></script> -->
+  <!-- <script src="/_js/F6.2.4/foundation.js"></script> -->
+  <script src="../_js/F6/f6.js"></script>
   <script>$(document).foundation();</script>
 
 </body>

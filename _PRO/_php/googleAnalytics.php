@@ -3,7 +3,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-54109976-1', 'auto');
-  ga('send', 'pageview');</script><!-- Global site tag (gtag.js) - Google AdWords: 990426188 --><script async src="https://www.googletagmanager.com/gtag/js?id=AW-990426188"></script><script>window.dataLayer = window.dataLayer || [];
+  ga('send', 'pageview');</script><script async src="https://www.googletagmanager.com/gtag/js?id=AW-990426188"></script><script>window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'AW-990426188');</script>
