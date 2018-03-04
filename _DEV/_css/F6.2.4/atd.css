@@ -2,7 +2,7 @@
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
 
 /*GLOBAL ELEMENTS*/
-body{margin:0px;height:auto;font-family:'Roboto',Helvetica Neue,Helvetica,Arial,sans-serif;text-rendering:optimizeLegibility;font-size:16px;background:#272727 url("../../_img/universal/bg_body_dk.gif") repeat center top;}
+body{margin:0px;height:auto;font-family:'Roboto',Helvetica Neue,Helvetica,Arial,sans-serif;text-rendering:optimizeLegibility;font-size:16px;background:#272727 url("../../_img/universal/bgBody_dk.gif") repeat center top;}
 
 /*Background No Longer Visible*/
 @media screen and (max-width:75em){.noNeedBg{display:none !important;}}

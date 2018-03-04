@@ -2,4 +2,8 @@
 node_modules
 .tmp
 .sass-cache
-_img/
+.jpg
+.jpeg
+.gif
+.png
+.svg
