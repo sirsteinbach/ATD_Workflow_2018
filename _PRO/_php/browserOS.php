@@ -36,7 +36,7 @@ function get_browser_name($user_agent){
 	"OS2" => "os/2",
 	"SearchBot"=>"(nuhk)|(googlebot)|(yammybot)|(openbot)|(slurp)|(msnbot)|(ask jeeves/teoma)|(ia_archiver)"
 	);
-	$useragent = $_SERVER["HTTP_USER_AGENT"];
+	$useragent = $_SERVER['HTTP_USER_AGENT'];
 	$useragent = strtolower($useragent);
 	foreach($osList as $os=>$match) {
 		if (preg_match("/" . $match . "/i", $useragent)){
@@ -45,6 +45,6 @@ function get_browser_name($user_agent){
 		}
 		return $os;
 	}
-	$browser=get_browser_name($_SERVER["HTTP_USER_AGENT"]);
+	$browser=get_browser_name($_SERVER['HTTP_USER_AGENT']);
 	$os=getUserOS($os);
 ?>

@@ -10,13 +10,13 @@
             <option<?php if($thisPage=="Seniors")echo" selected";?> value="S">Seniors</option>
             <option<?php if($thisPage=="Modeling")echo" selected";?> value="M">Modeling</option>
             <option<?php if($thisPage=="Travel")echo" selected";?> value="T">Travel</option>
-            <option<?php if($thisPage=="SJF")echo" selected";?> value="SJF">Sonia"s Favorites</option>
-            <option<?php if($thisPage=="SEF")echo" selected"; ?> value="SEF">Stephen"s Favorites</option>
+            <option<?php if($thisPage=="SJF")echo" selected";?> value="SJF">Sonia&rsquo;s Favorites</option>
+            <option<?php if($thisPage=="SEF")echo" selected";?> value="SEF">Stephen&rsquo;s Favorites</option>
             <option<?php if($thisPage=="Boudoir")echo" selected";?> value="X">Boudoir</option>
          </select>
       </div>
    </div>
-   <?php if($thisSet=="Weddings"){?>
+   <?php if($thisSet=="Weddings"){ ?>
    <div class="small-centered medium-6 medium-uncentered large-4 large-uncentered end columns menuPullup">
       <div class="input-group">
          <div class="input-group-addon"><i class="fa fa-sort"></i></div>
@@ -34,8 +34,8 @@
          </select>
       </div>
    </div>
-   <?php };?>
-   <?php if($thisSet=="Engagements"){?>
+   <?php }; ?>
+   <?php if($thisSet=="Engagements"){ ?>
    <div class="small-centered medium-6 medium-uncentered large-4 large-uncentered end columns menuPullup">
       <div class="input-group">
          <div class="input-group-addon"><i class="fa fa-sort"></i></div>
@@ -45,8 +45,8 @@
          </select>
       </div>
    </div>
-   <?php };?>
-   <?php if($thisSet=="Sunsets"){?>
+   <?php }; ?>
+   <?php if($thisSet=="Sunsets"){ ?>
    <div class="small-centered medium-6 medium-uncentered large-4 large-uncentered end columns menuPullup">
       <div class="input-group">
          <div class="input-group-addon"><i class="fa fa-sort"></i></div>
@@ -56,5 +56,5 @@
          </select>
       </div>
    </div>
-   <?php };?>
+   <?php }; ?>
 </div>

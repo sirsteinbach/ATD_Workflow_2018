@@ -1,0 +1,137 @@
+.thumbnail:focus, .thumbnail:hover, .thumbnail:visited, img.thumbnail {
+    box-shadow: none;
+}
+
+img.thumbnail {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    border: none;
+    display: block;
+    line-height: 1;
+    transition: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+div.column a.fancybox {
+    position: relative;
+    padding-top: 100%;
+    display: block;
+    width: 100%;
+    border: 2px solid #777;
+    background: #222;
+    border-radius: .4em;
+}
+
+.fancybox-image, .fancybox-spaceball {
+    border: #777 solid 2px;
+}
+
+div div.column {
+	margin: .3em 0;
+	padding: 0 .3em
+}
+
+.input-group {
+	display: table;
+	width: 100%;
+	margin: .5em 0
+}
+
+.input-group-addon {
+	vertical-align: middle;
+	display: table-cell;
+	padding: 0 5px;
+	font-size: 1em;
+	color: #DDD;
+	text-align: center;
+	background-color: #444;
+	background: linear-gradient(#555, #333);
+	border: 2px solid #777;
+	border-right: 0
+}
+
+/* Caption */
+.fancybox-caption-wrap {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 60px 2vw 0 2vw;
+  background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 0.6) 80%, rgba(0, 0, 0, 0.8) 100%);
+  pointer-events: none; }
+
+.fancybox-caption {
+  padding: 32px;
+  font-size: 22px;
+  line-height: 24px;
+}
+
+.fancybox-caption a {
+    background-color: #333;
+    border: none;
+    color: #BBB;
+    padding: 2px 8px 1px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    bottom: 4px;
+    margin-left: 12px;
+    border-radius: 4px;
+}
+
+.fancybox-caption a:hover {
+  color: #DDD;
+}
+.fancybox-caption a:after {
+  font-size: 14px;
+  color: orange;
+  font-family:'fontawesome';
+  content:'\f101';
+  padding: 0 0 0 6px;
+}
+
+.fancybox-caption small {
+  font-size: 14px;
+  color: #999;
+}
+
+/* .fancybox-caption small:before {
+  font-size: 12px;
+  color: #d23a3a;
+  font-family: 'fontawesome';
+  content: '\f041';
+  padding-right: 12px;
+} */
+
+.fancybox-is-open .fancybox-bg {
+  background-color: #111;
+  opacity: 0.95;
+}
+
+select {
+	margin: 0;
+	color: #CCC;
+	font-size: .95em;
+	border: 2px solid #777;
+	border-radius: 0 .5em .5em 0;
+	border-left: none;
+	padding: 0 1em;
+	height: 40px;
+	background: #222
+}
+
+select.classic {
+	background-image: linear-gradient(45deg, transparent 50%, #CCC 50%), linear-gradient(135deg, #CCC 50%, transparent 50%), linear-gradient(to top, #333, #555);
+	background-position: calc(100% - 15px) calc(1em + 2px), calc(100% - 10px) calc(1em + 2px), 100% 0;
+	background-size: 5px 5px, 5px 5px, 2em 3em;
+	background-repeat: no-repeat;
+	outline: 0
+}

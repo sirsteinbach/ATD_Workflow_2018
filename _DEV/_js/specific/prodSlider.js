@@ -68,7 +68,7 @@
 				if (void 0 !== b.style[a]) return c[a]
 		}, w = function () {
 			var a = document.createElement("div"),
-				b = ["Khtml", "Ms", "O", "Moz", "Webkit"],
+				b = ['Khtml', 'Ms', 'O', 'Moz', 'Webkit'],
 				c = b.length;
 			return function (d) {
 				if (d in a.style) return !0;
@@ -113,7 +113,7 @@
 		}, p = function () {
 			d.settings.pager && (a("." + d.settings.pagerClass + " li", d.vars.slippryWrapper).removeClass(d.settings.activeClass), a(a("." + d.settings.pagerClass + " li", d.vars.slippryWrapper)[d.vars.active.index()]).addClass(d.settings.activeClass))
 		}, u = function () {
-			!d.settings.loop && d.settings.hideOnEnd && (a("." + d.settings.prevClass, d.vars.slippryWrapper)[d.vars.first ? "hide" : "show"](), a("." + d.settings.nextClass, d.vars.slippryWrapper)[d.vars.last ? "hide" : "show"]())
+			!d.settings.loop && d.settings.hideOnEnd && (a("." + d.settings.prevClass, d.vars.slippryWrapper)[d.vars.first ? 'hide' : 'show'](), a("." + d.settings.nextClass, d.vars.slippryWrapper)[d.vars.last ? 'hide' : 'show']())
 		}, i = function () {
 			var b, c;
 			d.settings.captions !== !1 && (b = "img" !== d.settings.captionsSrc ? d.vars.active.attr("title") : void 0 !== a("img", d.vars.active).attr("title") ? a("img", d.vars.active).attr("title") : a("img", d.vars.active).attr("alt"), c = "custom" !== d.settings.captions ? a(d.settings.captionsEl, d.vars.slippryWrapper) : a(d.settings.captionsEl), void 0 !== b && "" !== b ? c.html(b).show() : c.hide())

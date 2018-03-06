@@ -2,8 +2,9 @@
 node_modules
 .tmp
 .sass-cache
-.jpg
-.jpeg
-.gif
-.png
-.svg
+.BridgeSort
+*.ini
+_notes
+*.png
+*.jpg
+*.jpeg

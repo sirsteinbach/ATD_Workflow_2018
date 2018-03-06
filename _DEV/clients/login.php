@@ -4,12 +4,12 @@ session_start();
 date_default_timezone_set("America/Los_Angeles");
 $expire=time()+60*60*24*60; //HOLD 60 DAYS
 $thisPage="login";
-$_SESSION["EyesOn"]["Page"]=$thisPage;
-$_SESSION["EyesOn"]["Menu"]="";
-$_SESSION["EyesOn"]["Sub"]="";
-$_SESSION["EyesOn"]["Set"]="";
-$_SESSION["Viewed"][$thisPage]=$thisPage;
-$visited=implode(",",array_unique($_SESSION["Viewed"]));
+$_SESSION['EyesOn']['Page']=$thisPage;
+$_SESSION['EyesOn']['Menu']="";
+$_SESSION['EyesOn']['Sub']="";
+$_SESSION['EyesOn']['Set']="";
+$_SESSION['Viewed'][$thisPage]=$thisPage;
+$visited=implode(",",array_unique($_SESSION['Viewed']));
 setcookie("Visited",$visited,$expire,"/",".abouttheday.com");
 require("../_php/referer.php");
 require("../_php/checkpoints.php");
@@ -54,22 +54,22 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 $userName="";
 $userPass="";
 $userKeep="";
-if(isset($_GET["Username"])){
-	$userName=$_GET["Username"];$userPass=$_GET["Password"];
-}elseif(isset($_COOKIE["atdClient"])){
+if(isset($_GET['Username'])){
+	$userName=$_GET['Username'];$userPass=$_GET['Password'];
+}elseif(isset($_COOKIE['atdClient'])){
 	$wth=json_decode($_COOKIE['atdClient']);
 	$userName=$wth[0];$userPass=$wth[1];$userKeep=$wth[2];
 }
 ?>
 <?php
-$loginFormAction=$_SERVER["PHP_SELF"];
-if(isset($_GET["accesscheck"])) {
-  $_SESSION["PrevUrl"]=$_GET["accesscheck"];
+$loginFormAction=$_SERVER['PHP_SELF'];
+if(isset($_GET['accesscheck'])) {
+  $_SESSION['PrevUrl']=$_GET['accesscheck'];
 }
 
-if(isset($_POST["username"])) {
-  $loginUsername=$_POST["username"];
-  $password=$_POST["password"];
+if(isset($_POST['username'])) {
+  $loginUsername=$_POST['username'];
+  $password=$_POST['password'];
   $MM_fldUserAuthorization="";
   $MM_redirectLoginSuccess="update.php";
   $MM_redirectLoginFailed="login.php?Status=Failed";
@@ -77,7 +77,7 @@ if(isset($_POST["username"])) {
   mysql_select_db($database_conn_Clients, $conn_Clients);
 
   	//KeepMe Cookie
-  	if(empty($_POST["Remember"])){
+  	if(empty($_POST['Remember'])){
 	  setcookie("atdClient","",time()-3600);
 	}else{
 		$keepMe=array($loginUsername,$password," checked");
@@ -95,16 +95,16 @@ if(isset($_POST["username"])) {
   if($loginFoundUser){
 	  $loginStrGroup="";
 	  //REMOVED LINE: if (PHP_VERSION >= 5.1) {session_regenerate_id(true);} else {session_regenerate_id();}
-	  $_SESSION["MM_Username"]=$loginUsername;
-	  $_SESSION["MM_UserGroup"]=$loginStrGroup;
+	  $_SESSION['MM_Username']=$loginUsername;
+	  $_SESSION['MM_UserGroup']=$loginStrGroup;
 
-	  if (isset($_SESSION["PrevUrl"])&&false){$MM_redirectLoginSuccess=$_SESSION["PrevUrl"];}
+	  if (isset($_SESSION['PrevUrl'])&&false){$MM_redirectLoginSuccess=$_SESSION['PrevUrl'];}
 
-	  $_SESSION["id"] = $pullRecordSet["DBID"];//USED TO PASS USER ATHENTICATION ON NEXT PAGE
+	  $_SESSION['id'] = $pullRecordSet['DBID'];//USED TO PASS USER ATHENTICATION ON NEXT PAGE
 
 	  //Create Success Email
 	  $headers = "From: webmaster@abouttheday.com";
-	  $message = "The \"".$pullRecordSet["LastName1"]."/".$pullRecordSet["LastName2"]."\" account has been accessed successfully.\r\nUsername: ".$loginUsername."\r\nPassword: ".$password;
+	  $message = "The \"".$pullRecordSet['LastName1']."/".$pullRecordSet['LastName2']."\" account has been accessed successfully.\r\nUsername: ".$loginUsername."\r\nPassword: ".$password;
 	  //Send Success Message
 	  mail("abouttheday@gmail.com", "Client Login :: Success", $message, $headers);
 	  header("Location: ".$MM_redirectLoginSuccess);
@@ -119,7 +119,7 @@ if(isset($_POST["username"])) {
 ?>
 <?php
 
-$status=isset($_GET["Status"]) ? htmlspecialchars($_GET["Status"]) : "";
+$status=isset($_GET['Status']) ? htmlspecialchars($_GET['Status']) : "";
 if($status=="Failed"){
 	$status_i="fa-exclamation-triangle";
 	$status_c="c_Red";
@@ -154,7 +154,7 @@ else{
     <meta name="theme-color" content="#22659C">
     <meta name="author" content="Stephen Steinbach">
     <meta name="webBuild" content="Foundation6.2.4">
-    <?php include_once($_SERVER["DOCUMENT_ROOT"]."/_php/googleAnalytics.php");?>
+    <?php include_once($_SERVER['DOCUMENT_ROOT']."/_php/googleAnalytics.php");?>
     <!--HOSTED-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <!--SELF-->

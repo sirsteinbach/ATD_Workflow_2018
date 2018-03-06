@@ -1,0 +1,135 @@
+.accordion-title{
+    padding:.5em .5em;
+    background:#DDD;
+    color:#666;
+    font-size:.85rem;
+    font-family:Oswald;
+    text-transform:uppercase;
+}
+ .accordion-title:before{
+    font-family:"fontawesome";
+    content:"\f0d7";
+    color:#666;
+    top:60%;
+}
+ .is-active>.accordion-title:before{
+    content:"\f068";
+}
+ .accordion-title:focus,.accordion-title:hover{
+    color:#555;
+    background:#CCC;
+}
+ .accordion-content{
+    padding:0;
+    margin:0;
+    font-size:.85rem;
+}
+ .accordion-content a{
+    color:#444;
+}
+ .accordion-content a:hover{
+    color:#000;
+}
+ :last-child>.accordion-content:last-child{
+    border-bottom:none;
+}
+ #mapCN {
+     display: none;
+}
+ #mapWO {
+     display: none;
+}
+ #tagNW, #tagSW, #tagMW, #tagNE, #tagSE, #tagAK, #tagHI, #tagCW, #tagCE, #tagUS, #tagCN, #tagCA, #tagSA, #tagAF, #tagEU, #tagAS, #tagAU {
+     display: none;
+}
+ .Northwest {
+     fill: #829253;
+     color: #829253;
+}
+ .Southwest {
+     fill: #A2B86A;
+     color: #A2B86A;
+}
+ .Midwest {
+     fill: #EED367;
+     color: #EED367;
+}
+ .Northeast {
+     fill: #AD9D76;
+     color: #AD9D76;
+}
+ .Southeast {
+     fill: #C7B487;
+     color: #C7B487;
+}
+ .Hawaii {
+     fill: #40ABC8;
+     color: #40ABC8;
+}
+ .Alaska {
+     fill: #4785A9;
+     color: #4785A9;
+}
+ .CanadaWest {
+     fill: #bddba3;
+     color: #bddba3;
+}
+ .CanadaEast {
+     fill: #bcc9da;
+     color: #bcc9da;
+}
+ .CanadaNorth {
+     fill: #999;
+     color: #999;
+}
+ .w_US {
+     fill: #66A0E1;
+     color: #66A0E1;
+}
+ .w_CN {
+     fill: #E55455;
+     color: #E55455;
+}
+ .w_CA {
+     fill: #8CC63F;
+     color: #8CC63F;
+}
+ .w_SA {
+     fill: #CABE89;
+     color: #CABE89;
+}
+ .w_AF {
+     fill: #A5C499;
+     color: #A5C499;
+}
+ .w_EU {
+     fill: #F5D88D;
+     color: #F5D88D;
+}
+ .w_AS {
+     fill: #92759D;
+     color: #92759D;
+}
+ .w_AU {
+     fill: #CEB043;
+     color: #CEB043;
+}
+ .w_NA {
+     fill: #777777;
+     color: #777777;
+}
+ .w_XX {
+     fill: #666666;
+}
+ path.tt_style {
+     fill: #222;
+     stroke: #222;
+     stroke-width: 2px;
+     stroke-opacity: .5;
+}
+ text.tt_style {
+     fill: #FFF;
+     font-family: "Roboto";
+     font-size: .85em;
+     font-weight: bold;
+}

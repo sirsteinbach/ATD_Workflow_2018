@@ -1,0 +1,69 @@
+.tableFull {
+	margin: 0 -1em -1em;
+}
+table {
+	width: 100%;
+	background: #EEE;
+}
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+td.padLeft {
+	padding: .5em 0 .5em 1em;
+}
+td.padLR {
+	padding: .5em 1em;
+}
+/*td.padCenter{padding:.5em 0;}*/
+	
+td.padL {
+	padding-left: .5em;
+}
+td.padR {
+	padding-right: .5em;
+}
+td.padTitle {
+	padding: .75em .5em;
+}
+td.padAll {
+	padding: .5em;
+}
+td.padTall {
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+td.padExTall {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+td.vertLine {
+	border-left: 1px #805141 solid;
+}
+td.horzLine {
+	border-bottom: 1px #dad0cd solid;
+}
+.Green {
+	color: #388A38;
+}
+.Orange {
+	color: #DF810A;
+}
+.Red {
+	color: #BF3831;
+}
+td.smText {
+	font-size: .8em
+}
+td.MdText {
+	font-size: .9em
+}
+.tableHalf {
+	width: 50%;
+}
+.table3rd {
+	width: 32%;
+}
+.table6th {
+	width: 17%;
+}

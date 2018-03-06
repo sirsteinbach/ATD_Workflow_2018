@@ -32,10 +32,14 @@
 	color: #2EC6C9;
 }
 .Sonia {
-	left: 5%;
+	left: 2%;
+	top: 15%;
+	width: 25%;
 }
 .Stephen {
-	right: 5%;
+	right: 2%;
+	top: 15%;
+	width: 25%;
 	text-align: right;
 }
 }
