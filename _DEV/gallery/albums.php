@@ -59,7 +59,7 @@ require("../_php/checkpoints.php");
 		<!--GALLERY-->
 		<div class="row small-up-1 medium-up-2 large-up-3 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="DCP" data-caption="Drew & Cherry's Album<br><small>Strömsholm Palace - Eskilstuna, Sweden</small>" href="../_img/gallery/albums/dcp/0000.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/albums/dcp/0000.jpg" alt="Album design for wedding at Strömsholm Palace in Sweden"></a>
+				<a class="fancybox" data-fancybox="DCP" data-caption="Drew & Cherry's Album<br><small>Strömsholm Palace &bull; Eskilstuna, Sweden</small>" href="../_img/gallery/albums/dcp/0000.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/albums/dcp/0000.jpg" alt="Album design for wedding at Strömsholm Palace in Sweden"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="RZS" data-caption="Rubin & Zuri's Album<br><small>Birmingham, Alabama</small>" href="../_img/gallery/albums/rzs/0000.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/albums/rzs/0000.jpg" alt="Album design for wedding in Birmingham, Alabama"></a>
@@ -74,7 +74,7 @@ require("../_php/checkpoints.php");
 				<a class="fancybox" data-fancybox="JCS" data-caption="James & Candice's Album<br><small>Dunedin, Florida</small>" href="../_img/gallery/albums/jcs/0000.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/albums/jcs/0000.jpg" alt="Album design for wedding in Dunedin, Florida"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox-group="CBH" data-caption="Charlie & Brittany's Album<br><small>Charles Krug Winery - St.Helena, California</small>" href="../_img/gallery/albums/cbh/0000.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/albums/cbh/0000.jpg" alt="Album design for wedding at Charles Krug Winery in St.Helena, California"></a>
+				<a class="fancybox" data-fancybox-group="CBH" data-caption="Charlie & Brittany's Album<br><small>Charles Krug Winery &bull; t.Helena, California</small>" href="../_img/gallery/albums/cbh/0000.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/albums/cbh/0000.jpg" alt="Album design for wedding at Charles Krug Winery in St.Helena, California"></a>
 			</div>
 		</div>
 		

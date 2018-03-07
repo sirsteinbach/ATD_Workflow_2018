@@ -64,7 +64,7 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Haliegh<br><small>Glendale, Oregon</small>" href="../_img/gallery/seniors/senior-01.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/seniors/senior-01sm.jpg" alt="Haliegh poses in her softball outfit"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Haliegh<a href='/blog/p_hg/' target='_blank'>&nbsp;View Blog</a><br><small>Glendale, Oregon</small>" href="../_img/gallery/seniors/senior-01.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/seniors/senior-01sm.jpg" alt="Haliegh poses in her softball outfit"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Marco<br><small>Kamloops, British Columbia</small>" href="../_img/gallery/seniors/senior-02.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/seniors/senior-02sm.jpg" alt="Mark poses for senior photos with grafiti wall"></a>

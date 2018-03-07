@@ -65,76 +65,76 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-01.jpg" data-caption="Evan & Sierra<br><small>The Air Force Academy &bull;Colorado Springs</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-01sm.jpg" alt="Air Force Wedding Couple Kiss in Snow Near Colorado Springs"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-01.jpg" data-caption="Evan & Sierra<a href='/blog/wedding-esr/' target='_blank'>&nbsp;View Blog</a><br><small>The Air Force Academy &bull; Colorado Springs</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-01sm.jpg" alt="Air Force Wedding Couple Kiss in Snow Near Colorado Springs"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-02.jpg" data-caption="Cameron & Sabrina<br><small>Rancho De La Fuente &bull;Lakeport, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-02sm.jpg" alt="Bride with her new Marine husband"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-02.jpg" data-caption="Cameron & Sabrina<br><small>Rancho De La Fuente &bull; Lakeport, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-02sm.jpg" alt="Bride with her new Marine husband"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-03.jpg" data-caption="Ranga & Ketki<br><small>Malai Mandir Temple &bull;New Delhi, India</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-03sm.jpg" alt="Indian Groom arrives on decorated horse"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-03.jpg" data-caption="Ranga & Ketki<br><small>Malai Mandir Temple &bull; New Delhi, India</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-03sm.jpg" alt="Indian Groom arrives on decorated horse"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-04.jpg" data-caption="Greg & Sarah<br><small>AlexEli Vineyard &bull;Molalla, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-04sm.jpg" alt="Smiling Bride looks though veil"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-04.jpg" data-caption="Greg & Sarah<br><small>AlexEli Vineyard &bull; Molalla, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-04sm.jpg" alt="Smiling Bride looks though veil"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-05.jpg" data-caption="Chris & Yoriko<br><small>The Harbor Club &bull;Bellveue, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-05sm.jpg" alt="Groom looks at his beautiful Bride"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-05.jpg" data-caption="Chris & Yoriko<br><small>The Harbor Club &bull; Bellveue, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-05sm.jpg" alt="Groom looks at his beautiful Bride"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-06.jpg" data-caption="Jon & Oriana<br><small>Hornblower Garden &bull;Plymouth, Massachusetts</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-06sm.jpg" alt="Wedding boquet in the golden light of evening"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-06.jpg" data-caption="Jon & Oriana<a href='/blog/wedding-jon/' target='_blank'>&nbsp;View Blog</a><br><small>Hornblower Garden &bull; Plymouth, Massachusetts</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-06sm.jpg" alt="Wedding boquet in the golden light of evening"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-07.jpg" data-caption="Michael & Kristin<br><small>Promise Garden &bull;Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-07sm.jpg" alt="Wedding party group at Promise Gardens"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-07.jpg" data-caption="Michael & Kristin<br><small>Promise Garden &bull; Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-07sm.jpg" alt="Wedding party group at Promise Gardens"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-08.jpg" data-caption="Jesse & Brooke<br><small>Red Mountain Ranch &bull;Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-08sm.jpg" alt="Groom gets choked up when he sees the Bride enter"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-08.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>&nbsp;View Blog</a><br><small>Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-08sm.jpg" alt="Groom gets choked up when he sees the Bride enter"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-09.jpg" data-caption="Chad & Katrina<br><small>Blue Ribbon Cooking &bull;Seattle, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-09sm.jpg" alt="Bride poses as she gets ready"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-09.jpg" data-caption="Chad & Katrina<br><small>Blue Ribbon Cooking &bull; Seattle, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-09sm.jpg" alt="Bride poses as she gets ready"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-10.jpg" data-caption="Macy & Cassie<br><small>Quartz Mountain Resort &bull;Lone Wolf, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-10sm.jpg" alt="Cowboy Groom looks at his bride"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-10.jpg" data-caption="Macy & Cassie<br><small>Quartz Mountain Resort &bull; Lone Wolf, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-10sm.jpg" alt="Cowboy Groom looks at his bride"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-11.jpg" data-caption="Ruben & Zuri<br><small>Birmingham, Alabama</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-11sm.jpg" alt="Rubin and Zuri get out on the dance floor"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-12.jpg" data-caption="Joe & Margaret<br><small>Washington Square &bull;New Orleans, Louisiana</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-12sm.jpg" alt="Bride and Groom kiss beneath long flowing veil"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-12.jpg" data-caption="Joe & Margaret<br><small>Washington Square &bull; New Orleans, Louisiana</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-12sm.jpg" alt="Bride and Groom kiss beneath long flowing veil"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-13.jpg" data-caption="Garrett & Janelle<br><small>Scotts Bluff Monument &bull;Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-13sm.jpg" alt="Sunset in Scotts Bluff with larger then life Bride and Groom "></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-13.jpg" data-caption="Garrett & Janelle<a href='/blog/wedding-gjc/' target='_blank'>&nbsp;View Blog</a><br><small>Scotts Bluff Monument &bull; Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-13sm.jpg" alt="Sunset in Scotts Bluff with larger then life Bride and Groom "></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-14.jpg" data-caption="Andrew & Jessica<br><small>JM Cellars &bull;Woodenville, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-14sm.jpg" alt="Bride and Groom sneak a kiss in the barrel room of JM Cellars"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-14.jpg" data-caption="Andrew & Jessica<br><small>JM Cellars &bull; Woodenville, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-14sm.jpg" alt="Bride and Groom sneak a kiss in the barrel room of JM Cellars"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-15.jpg" data-caption="Jacky & Amber<br><small>Thompson River Inn &bull;Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-15sm.jpg" alt="Groom makes the Bride laugh"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-15.jpg" data-caption="Jacky & Amber<br><small>Thompson River Inn &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-15sm.jpg" alt="Groom makes the Bride laugh"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-16.jpg" data-caption="Tommy & Felicia<br><small>Lake Siskiyou &bull;Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-16sm.jpg" alt="Bride and Groom snuggle in for photos in the forest"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-16.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-16sm.jpg" alt="Bride and Groom snuggle in for photos in the forest"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-17.jpg" data-caption="James & Candice<br><small>Dunedin, Florida</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-17sm.jpg" alt="Bride and Groom nussel in front of Florida house"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-18.jpg" data-caption="Jeffrey & Kelsey<br><small>Moore Mansion &bull;Pasco Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-18sm.jpg" alt="Wedding in the background of a happy sign at Moore Mansion"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-18.jpg" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>&nbsp;View Blog</a><br><small>Moore Mansion &bull; Pasco Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-18sm.jpg" alt="Wedding in the background of a happy sign at Moore Mansion"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-19.jpg" data-caption="Jeremy & Shabnam<br><small>Park Hyatt &bull;Dubai, UAE</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-19sm.jpg" alt="Indian Brides beautifl face in red cover at the Park Hyatt in Dubai"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-19.jpg" data-caption="Jeremy & Shabnam<br><small>Park Hyatt &bull; Dubai, UAE</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-19sm.jpg" alt="Indian Brides beautifl face in red cover at the Park Hyatt in Dubai"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-20.jpg" data-caption="Sean & Brandy<br><small>Peterson Creek Park &bull;Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-20sm.jpg" alt="Bride and Groom pose in Peterson Creek Park"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-20.jpg" data-caption="Sean & Brandi<a href='/blog/wedding-sbt/' target='_blank'>&nbsp;View Blog</a><br><small>Peterson Creek Park &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-20sm.jpg" alt="Bride and Groom pose in Peterson Creek Park"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-21.jpg" data-caption="Matt & Laura<br><small>The Old Whaling Station &bull;Monterey, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-21sm.jpg" alt="Bride and Groom look into each others eyes"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-21.jpg" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>The Old Whaling Station &bull; Monterey, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-21sm.jpg" alt="Bride and Groom look into each others eyes"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-22.jpg" data-caption="Stefan & Virginia<br><small>Blueberry Hill Inn &bull;Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-22sm.jpg" alt="Wedding tent lights up at the Blueberry Hill Inn"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-22.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>&nbsp;View Blog</a><br><small>Blueberry Hill Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-22sm.jpg" alt="Wedding tent lights up at the Blueberry Hill Inn"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-23.jpg" data-caption="Jer&ocirc;me & Dorthe&eacute;<br><small>Ch&acirc;teau Ferme Profondval, Belgium</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-23sm.jpg" alt="Bride and Groom have their first dance"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-24.jpg" data-caption="Qi & Xiaohan<br><small>Thornewood Castle &bull;Lakewood, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-24sm.jpg" alt="Georgous sunset wedding couple at Thornewood Castle"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio3/wedding_3-24.jpg" data-caption="Qi & Xiaohan<a href='/blog/wedding-qxz/' target='_blank'>&nbsp;View Blog</a><br><small>Thornewood Castle &bull; Lakewood, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio3/wedding_3-24sm.jpg" alt="Georgous sunset wedding couple at Thornewood Castle"></a>
 			</div>
 		</div>
 		

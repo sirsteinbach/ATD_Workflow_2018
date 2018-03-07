@@ -66,49 +66,49 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jeffrey & Kelsey<br><small>Moore Mansion - Pasco Washington</small>" href="/_img/gallery/ceremonies/ceremony-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-01sm.jpg" alt="Wedding in the background of a happy sign"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>&nbsp;View Blog</a><br><small>Moore Mansion &bull; Pasco Washington</small>" href="/_img/gallery/ceremonies/ceremony-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-01sm.jpg" alt="Wedding in the background of a happy sign"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Beau & Nicole<br><small>Snoqualmie Ridge - Snoqualmie, Washington</small>" href="/_img/gallery/ceremonies/ceremony-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-02sm.jpg" alt="Beautiful wedding overlooking Mt. Si"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Beau & Nicole<br><small>Snoqualmie Ridge &bull; Snoqualmie, Washington</small>" href="/_img/gallery/ceremonies/ceremony-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-02sm.jpg" alt="Beautiful wedding overlooking Mt. Si"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<br><small>The Old Wailers Station - Monterey, California</small>" href="/_img/gallery/ceremonies/ceremony-03.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-03sm.jpg" alt="Father walks the Bride down the isle"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>The Old Wailers Station &bull; Monterey, California</small>" href="/_img/gallery/ceremonies/ceremony-03.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-03sm.jpg" alt="Father walks the Bride down the isle"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Chris & Michelle<br><small>Bok Tower - Lake Wales, Florida</small>" href="/_img/gallery/ceremonies/ceremony-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-04sm.jpg" alt="Wedding ceremony in front of Bok Tower"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Chris & Michelle<a href='/blog/w_cmp/' target='_blank'>&nbsp;View Blog</a><br><small>Bok Tower &bull; Lake Wales, Florida</small>" href="/_img/gallery/ceremonies/ceremony-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-04sm.jpg" alt="Wedding ceremony in front of Bok Tower"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Colin & Rachel<br><small>St. Marys Cathedral - West Lafayette, Indiana</small>" href="/_img/gallery/ceremonies/ceremony-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-05sm.jpg" alt="View of wedding ceremony from St. Marys balcony"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Colin & Rachel<br><small>St. Marys Cathedral &bull; West Lafayette, Indiana</small>" href="/_img/gallery/ceremonies/ceremony-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-05sm.jpg" alt="View of wedding ceremony from St. Marys balcony"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Hickory & Angie<br><small>The Annunciation Cathedral - Columbus, Ohio</small>" href="/_img/gallery/ceremonies/ceremony-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-06sm.jpg" alt="Bride and Groom being tied together"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Hickory & Angie<br><small>The Annunciation Cathedral &bull; Columbus, Ohio</small>" href="/_img/gallery/ceremonies/ceremony-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-06sm.jpg" alt="Bride and Groom being tied together"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Ruben & Zuri<br><small>Birmingham, Alabama</small>" href="/_img/gallery/ceremonies/ceremony-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-07sm.jpg" alt="Ruben and Zuri Studdard exit their wedding"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<br><small>Old Wailers Station - Monterey, California</small>" href="/_img/gallery/ceremonies/ceremony-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-08sm.jpg" alt="The Bride and Grooms recessional"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>Old Wailers Station &bull; Monterey, California</small>" href="/_img/gallery/ceremonies/ceremony-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-08sm.jpg" alt="The Bride and Grooms recessional"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Hickory & Angie<br><small>The Annunciation Cathedral - Columbus, Ohio</small>" href="/_img/gallery/ceremonies/ceremony-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-09sm.jpg" alt="View of the Greek Orthodox ceremony"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Hickory & Angie<br><small>The Annunciation Cathedral &bull; Columbus, Ohio</small>" href="/_img/gallery/ceremonies/ceremony-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-09sm.jpg" alt="View of the Greek Orthodox ceremony"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Josh & Breanna<br><small>Victory Memorial Church - Guymon, Oklahoma</small>" href="/_img/gallery/ceremonies/ceremony-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-10sm.jpg" alt="Bride and Groom run for their car"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Victory Memorial Church &bull; Guymon, Oklahoma</small>" href="/_img/gallery/ceremonies/ceremony-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-10sm.jpg" alt="Bride and Groom run for their car"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Mika & Katlin<br><small>Schloss Leopoldskron - Salzburg, Austria</small>" href="/_img/gallery/ceremonies/ceremony-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-11sm.jpg" alt="Wedding at Schloss Leopoldskron in Salzburg, Austria"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Mika & Katlin<br><small>Schloss Leopoldskron &bull; Salzburg, Austria</small>" href="/_img/gallery/ceremonies/ceremony-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-11sm.jpg" alt="Wedding at Schloss Leopoldskron in Salzburg, Austria"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Joe & Margret<br><small>French Quater - New Orleans, Lousiana</small>" href="/_img/gallery/ceremonies/ceremony-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-12sm.jpg" alt="Wedding procession in New Orleans style"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Joe & Margret<br><small>French Quater &bull; New Orleans, Lousiana</small>" href="/_img/gallery/ceremonies/ceremony-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-12sm.jpg" alt="Wedding procession in New Orleans style"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Dominic & Shannon<br><small>Paradise Cove, Hawaii</small>" href="/_img/gallery/ceremonies/ceremony-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-13sm.jpg" alt="The Groom laughs during the wedding"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Akil & Erika<br><small>MCAS Miramar - San Diego, California</small>" href="/_img/gallery/ceremonies/ceremony-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-14sm.jpg" alt="Wedding at MCAS Miramar in San Diego, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Akil & Erika<br><small>MCAS Miramar &bull; San Diego, California</small>" href="/_img/gallery/ceremonies/ceremony-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-14sm.jpg" alt="Wedding at MCAS Miramar in San Diego, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Qi & Xiaohan<br><small>Thornewood Castle - Lakewood, Washington</small>" href="/_img/gallery/ceremonies/ceremony-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-15sm.jpg" alt="Outdoor wedding ceremony at Thornewood Castle"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Qi & Xiaohan<a href='/blog/wedding-qxz/' target='_blank'>&nbsp;View Blog</a><br><small>Thornewood Castle &bull; Lakewood, Washington</small>" href="/_img/gallery/ceremonies/ceremony-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-15sm.jpg" alt="Outdoor wedding ceremony at Thornewood Castle"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Clinton & Shannon<br><small>Fort Walton Beach, Florida</small>" href="/_img/gallery/ceremonies/ceremony-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-16sm.jpg" alt="Worms eye view of a wedding ceremony"></a>
@@ -117,25 +117,25 @@
 				<a class="fancybox" data-fancybox="group" data-caption="Sal & Kaylee<br><small>Mons, Belgium</small>" href="/_img/gallery/ceremonies/ceremony-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-17sm.jpg" alt="Bride and her father walk down the isle"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Dominic & Shannon<br><small>Paradise Cove - Kapolei, Hawaii</small>" href="/_img/gallery/ceremonies/ceremony-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-18sm.jpg" alt="Clasping hands during Hawaiin wedding"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Dominic & Shannon<br><small>Paradise Cove &bull; Kapolei, Hawaii</small>" href="/_img/gallery/ceremonies/ceremony-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-18sm.jpg" alt="Clasping hands during Hawaiin wedding"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Eric & Irene<br><small>Snoqualmie Ridge - Snoqualmie, Washington</small>" href="/_img/gallery/ceremonies/ceremony-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-19sm.jpg" alt="Grand exit for Bride and Groom"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Eric & Irene<br><small>Snoqualmie Ridge &bull; Snoqualmie, Washington</small>" href="/_img/gallery/ceremonies/ceremony-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-19sm.jpg" alt="Grand exit for Bride and Groom"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Sai & Kaylee<br><small>Mons, Belgium</small>" href="/_img/gallery/ceremonies/ceremony-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-20sm.jpg" alt="Bride and Groom exchange rings"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Keith & Kimberly<br><small>The Beach House - Koloa, Kauai</small>" href="/_img/gallery/ceremonies/ceremony-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-21sm.jpg" alt="Wedding ceremony with surfers in the background"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Keith & Kimberly<br><small>The Beach House &bull; Koloa, Kauai</small>" href="/_img/gallery/ceremonies/ceremony-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-21sm.jpg" alt="Wedding ceremony with surfers in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Andrew & Connie<br><small>The State Capitol - Olympia Washington</small>" href="/_img/gallery/ceremonies/ceremony-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-22sm.jpg" alt="Wedding ceremony in the Washington State Capitol building"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Andrew & Connie<br><small>The State Capitol &bull; Olympia Washington</small>" href="/_img/gallery/ceremonies/ceremony-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-22sm.jpg" alt="Wedding ceremony in the Washington State Capitol building"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Dominic & Shannon<br><small>Paradise Cove - Kapolei, Hawaii</small>" href="/_img/gallery/ceremonies/ceremony-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-23sm.jpg" alt="Back view of wedding at Paradise Cove"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Dominic & Shannon<br><small>Paradise Cove &bull; Kapolei, Hawaii</small>" href="/_img/gallery/ceremonies/ceremony-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-23sm.jpg" alt="Back view of wedding at Paradise Cove"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Ian & Macy<br><small>Zenith Vineyards - Salem, Oregon</small>" href="/_img/gallery/ceremonies/ceremony-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-24sm.jpg" alt="Wedding at Zenith Vineyards in Salem, Oregon"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Ian & Macy<br><small>Zenith Vineyards &bull; Salem, Oregon</small>" href="/_img/gallery/ceremonies/ceremony-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/ceremonies/ceremony-24sm.jpg" alt="Wedding at Zenith Vineyards in Salem, Oregon"></a>
 			</div>
 		</div>
 		

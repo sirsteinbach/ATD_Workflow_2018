@@ -60,15 +60,15 @@
 			<!--PHOTONAV-->
 			<?php require("../_php/navPhoto.php");?>
 			
-		</section><!-- <a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a> -->
+		</section><!-- <a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a> -->
 		
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-01.jpg" data-caption="Tommy & Felicia <a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-01sm.jpg" alt="Wedding Photography Bride and Groom by the waters edge at sunset"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-01.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-01sm.jpg" alt="Wedding Photography Bride and Groom by the waters edge at sunset"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-02.jpg" data-caption="Derek & Christina <a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood Golf Resort &bull; Lake Tahoe, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-02sm.jpg" alt="Wedding Photography Kissing in the pine trees near Lake Tahoe"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-02.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood Golf Resort &bull; Lake Tahoe, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-02sm.jpg" alt="Wedding Photography Kissing in the pine trees near Lake Tahoe"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-03.jpg" data-caption="Luis & Beatriz<br><small>Driggs, ID</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-03sm.jpg" alt="Wedding Photography Bride and Groom under a Simpsons sky"></a>
@@ -83,25 +83,25 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-06.jpg" data-caption="Dustin & Miranda<br><small>Buena Vista, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-06sm.jpg" alt="Wedding Photography Colorful Silouette of Bride and Groom"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-07.jpg" data-caption="Ari & Janet <a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville &bull; Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-07sm.jpg" alt="Wedding Photography Bride laughs as she walks down the isle with her father"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-07.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville &bull; Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-07sm.jpg" alt="Wedding Photography Bride laughs as she walks down the isle with her father"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-08.jpg" data-caption="Justin & Cara <a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-08sm.jpg" alt="Wedding Photography Beautiful Bride sits on an old junkyard car"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-08.jpg" data-caption="Justin & Cara<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-08sm.jpg" alt="Wedding Photography Beautiful Bride sits on an old junkyard car"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-09.jpg" data-caption="Ian & Macy<br><small>Zeinth Vinyard &bull; Zena, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-09sm.jpg" alt="Wedding Photography Brides face in the natural light of the window"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-10.jpg" data-caption="Tristan & Ashley <a href='/blog/w_tar/' target='_blank'>&nbsp;View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-10sm.jpg" alt="Wedding Photography Bride and Groom with Red Rock Park in the background"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-10.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>&nbsp;View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-10sm.jpg" alt="Wedding Photography Bride and Groom with Red Rock Park in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-11.jpg" data-caption="Jeremy & Michelle <a href='/blog/wedding-jmm/' target='_blank'>&nbsp;View Blog</a><br><small>The Rio Grande River &bull; Del Rio, Texas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-11sm.jpg" alt="Wedding party strikes a crazy pose"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-11.jpg" data-caption="Jeremy & Michelle<a href='/blog/wedding-jmm/' target='_blank'>&nbsp;View Blog</a><br><small>The Rio Grande River &bull; Del Rio, Texas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-11sm.jpg" alt="Wedding party strikes a crazy pose"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-12.jpg" data-caption="Jacobus & Jen<br><small>Our Lady of Lourdes &bull; Spokane, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-12sm.jpg" alt="Kissing in front of Cathedral of Our Lady of Lourdes in Spokane, Washington"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-13.jpg" data-caption="Jeffrey & Kelsey <a href='/blog/wedding-jkm/' target='_blank'>&nbsp;View Blog</a><br><small>Moore Mansion &bull; Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-13sm.jpg" alt="Sunset kiss at Moore Mansion in Pasco"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-13.jpg" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>&nbsp;View Blog</a><br><small>Moore Mansion &bull; Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-13sm.jpg" alt="Sunset kiss at Moore Mansion in Pasco"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-14.jpg" data-caption="Jeremy & Shabnam<br><small>Park Hyatt &bull; Dubai, UAE</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-14sm.jpg" alt="Henna hands in Dubai"></a>
@@ -113,13 +113,13 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-16.jpg" data-caption="Daniel & Amy<br><small>San Diego Wild Animal Park &bull; Escondido, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-16sm.jpg" alt="The sun shines through a passionate kiss"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-17.jpg" data-caption="Gary & Shirley<br><small>Riverside, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-17sm.jpg" alt="Groom is admired by his new wife"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-17.jpg" data-caption="Gary & Shirley<a href='/blog/w_gst/' target='_blank'>&nbsp;View Blog</a><br><small>Riverside, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-17sm.jpg" alt="Groom is admired by his new wife"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-18.jpg" data-caption="Jason & Chelsie <a href='/blog/w_jct/' target='_blank'>&nbsp;View Blog</a><br><small>David Arthur Vineyards &bull; St.Helena, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-18sm.jpg" alt="Bride and Groom kiss overlooking David Arthur Vineyards"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-18.jpg" data-caption="Jason & Chelsie<a href='/blog/w_jct/' target='_blank'>&nbsp;View Blog</a><br><small>David Arthur Vineyards &bull; St.Helena, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-18sm.jpg" alt="Bride and Groom kiss overlooking David Arthur Vineyards"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-19.jpg" data-caption="Justin & Cara <a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-19sm.jpg" alt="Wedding party strikes a crazy pose"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-19.jpg" data-caption="Justin & Cara<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-19sm.jpg" alt="Wedding party strikes a crazy pose"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio1/wedding_1-20.jpg" data-caption="Colin & Rachel<br><small>St. Mary's Cathedral &bull; Lafayette, Indiana</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio1/wedding_1-20sm.jpg" alt="View of wedding ceremony from St. Marys balcony"></a>

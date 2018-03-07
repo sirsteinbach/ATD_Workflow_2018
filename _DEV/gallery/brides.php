@@ -64,34 +64,34 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Oriana<br><small>Hornblower Garden - Plymouth, Massachusetts</small>" href="../_img/gallery/brides/bride-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-01sm.jpg" alt="30's theme Bride poses at Hornblower Garden"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Oriana<a href='/blog/wedding-jon/' target='_blank'>&nbsp;View Blog</a><br><small>Hornblower Garden &bull; Plymouth, Massachusetts</small>" href="../_img/gallery/brides/bride-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-01sm.jpg" alt="30's theme Bride poses at Hornblower Garden"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Cara<br><small>Merritt, British Columbia</small>" href="../_img/gallery/brides/bride-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-02sm.jpg" alt="Beautiful Bride sits on old junked car"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Cara<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>" href="../_img/gallery/brides/bride-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-02sm.jpg" alt="Beautiful Bride sits on old junked car"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Ellen<br><small>Aspen Hall Manor - Harrodsburg, Kentucky</small>" href="../_img/gallery/brides/bride-03.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-03sm.jpg" alt="Bride leans against Aspen Hall Manor in Harrodsburg, Kentucky"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Ellen<br><small>Aspen Hall Manor &bull; Harrodsburg, Kentucky</small>" href="../_img/gallery/brides/bride-03.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-03sm.jpg" alt="Bride leans against Aspen Hall Manor in Harrodsburg, Kentucky"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Engrid<br><small>Manchester Grand Hyatt - San Diego, California</small>" href="../_img/gallery/brides/bride-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-04sm.jpg" alt="Beautiful Bride look out from behind her viel at Manchester Grand Hyatt"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Engrid<br><small>Manchester Grand Hyatt &bull; San Diego, California</small>" href="../_img/gallery/brides/bride-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-04sm.jpg" alt="Beautiful Bride look out from behind her viel at Manchester Grand Hyatt"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Heather<br><small>Avalon, California</small>" href="../_img/gallery/brides/bride-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-05sm.jpg" alt="Bride stands with her back to the camera for a full dress picture in Avalon, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Amber<br><small>Thompson River Inn - Kamloops, British Columbia</small>" href="../_img/gallery/brides/bride-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-06sm.jpg" alt="Asian Bride glows in sunset"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Amber<br><small>Thompson River Inn &bull; Kamloops, British Columbia</small>" href="../_img/gallery/brides/bride-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-06sm.jpg" alt="Asian Bride glows in sunset"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Taya<br><small>Wallowa Lake - Joseph, Oregon</small>" href="../_img/gallery/brides/bride-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-07sm.jpg" alt="Bride walks through tall grass at Wallowa Lake in Joseph, Oregon"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Taya<a href='/blog/w_mtm/' target='_blank'>&nbsp;View Blog</a><br><small>Wallowa Lake &bull; Joseph, Oregon</small>" href="../_img/gallery/brides/bride-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-07sm.jpg" alt="Bride walks through tall grass at Wallowa Lake in Joseph, Oregon"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Yuanyi<br><small>Bella Fiore Winery - Ashland, Oregon</small>" href="../_img/gallery/brides/bride-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-08sm.jpg" alt="Bride applies final touches at Bella Fiore Winery in Ashland, Oregon"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Yuanyi<br><small>Bella Fiore Winery &bull; Ashland, Oregon</small>" href="../_img/gallery/brides/bride-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-08sm.jpg" alt="Bride applies final touches at Bella Fiore Winery in Ashland, Oregon"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Kari<br><small>Vancouver, Washington</small>" href="../_img/gallery/brides/bride-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-09sm.jpg" alt="Bride first look on the stairs in Vancouver, Washington"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Sarah<br><small>AlexEli Vineyard - Molalla, Oregon</small>" href="../_img/gallery/brides/bride-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-10sm.jpg" alt="Bride smiles through her fishnet veil"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Sarah<br><small>AlexEli Vineyard &bull; Molalla, Oregon</small>" href="../_img/gallery/brides/bride-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-10sm.jpg" alt="Bride smiles through her fishnet veil"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Rebecca<br><small>Santa Barbara, California</small>" href="../_img/gallery/brides/bride-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-11sm.jpg" alt="Bride flirts and works the camera in Santa Barbara, California"></a>
@@ -100,40 +100,40 @@
 				<a class="fancybox" data-fancybox="group" data-caption="Ally<br><small>Puyallup, Washington</small>" href="../_img/gallery/brides/bride-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-12sm.jpg" alt="Bride smells her flowers"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Kelly<br><small>Apple Tree Lane B&B - Waupaca, Wisconsin</small>" href="../_img/gallery/brides/bride-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-13sm.jpg" alt="Blonde Bride shows her flowers"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Kelly<br><small>Apple Tree Lane B&B &bull; Waupaca, Wisconsin</small>" href="../_img/gallery/brides/bride-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-13sm.jpg" alt="Blonde Bride shows her flowers"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Cara<br><small>Merritt, British Columbia</small>" href="../_img/gallery/brides/bride-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-14sm.jpg" alt="Flowergirls kiss the bride"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Cara<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>" href="../_img/gallery/brides/bride-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-14sm.jpg" alt="Flowergirls kiss the bride"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Amber<br><small>Thompson Inn - Kamloops, British Columbia</small>" href="../_img/gallery/brides/bride-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-15sm.jpg" alt="Asian Bride with flawless skin gets ready at Thompson River Inn"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Amber<br><small>Thompson Inn &bull; Kamloops, British Columbia</small>" href="../_img/gallery/brides/bride-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-15sm.jpg" alt="Asian Bride with flawless skin gets ready at Thompson River Inn"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Rebecca<br><small>Kensington Gardens - Gig Harbor, Washington</small>" href="../_img/gallery/brides/bride-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-16sm.jpg" alt="Beautiful Bride looks back at camera"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Rebecca<br><small>Kensington Gardens &bull; Gig Harbor, Washington</small>" href="../_img/gallery/brides/bride-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-16sm.jpg" alt="Beautiful Bride looks back at camera"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Carlie<br><small>Gemeindezentrum Lutherkirche - Frankfurt, Germany</small>" href="../_img/gallery/brides/bride-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-17sm.jpg" alt="Brides eyes though fishnet"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Carlie<br><small>Gemeindezentrum Lutherkirche &bull; Frankfurt, Germany</small>" href="../_img/gallery/brides/bride-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-17sm.jpg" alt="Brides eyes though fishnet"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Megan<br><small>Grafton Dells River Park - Milwaukee, Wisconsin</small>" href="../_img/gallery/brides/bride-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-18sm.jpg" alt="Angelic Bride in the forest near Milwaukee"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Megan<a href='/blog/wedding-bms/' target='_blank'>&nbsp;View Blog</a><br><small>Grafton Dells River Park &bull; Milwaukee, Wisconsin</small>" href="../_img/gallery/brides/bride-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-18sm.jpg" alt="Angelic Bride in the forest near Milwaukee"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Josie<br><small>Point Pleasant, New Jersey</small>" href="../_img/gallery/brides/bride-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-19sm.jpg" alt="Bride stands on the New Jersey beach"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Denise<br><small>Point Defiance - Tacoma, Washington</small>" href="../_img/gallery/brides/bride-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-20sm.jpg" alt="Beautiful blond Bride raises her eyebrows"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Denise<br><small>Point Defiance &bull; Tacoma, Washington</small>" href="../_img/gallery/brides/bride-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-20sm.jpg" alt="Beautiful blond Bride raises her eyebrows"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Dorthe&eacute;<br><small>Ch&acirc;teau Ferme Profondval, Belgium</small>" href="../_img/gallery/brides/bride-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-21sm.jpg" alt="Brides finishing touches"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Sierra<br><small>Cheyenne Mountain Resort - Colorado Springs</small>" href="../_img/gallery/brides/bride-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-22sm.jpg" alt="Bride looks out her window at Cheyenne Mountain Resort"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Sierra<a href='/blog/wedding-esr/' target='_blank'>&nbsp;View Blog</a><br><small>Cheyenne Mountain Resort &bull; Colorado Springs</small>" href="../_img/gallery/brides/bride-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-22sm.jpg" alt="Bride looks out her window at Cheyenne Mountain Resort"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Heather<br><small>Peninsula Room - Traverse City, Michigan</small>" href="../_img/gallery/brides/bride-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-23sm.jpg" alt="Gorgeous Bride looks over her shoulder at the Peninsula Room in Traverse City, Michigan"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Heather<a href='/blog/w_jhm/' target='_blank'>&nbsp;View Blog</a><br><small>Peninsula Room &bull; Traverse City, Michigan</small>" href="../_img/gallery/brides/bride-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-23sm.jpg" alt="Gorgeous Bride looks over her shoulder at the Peninsula Room in Traverse City, Michigan"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Katrina<br><small>Blue Ribbon Cooking - Seattle, Washington</small>" href="../_img/gallery/brides/bride-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-24sm.jpg" alt="Bride holds her boquet out in front of her"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Katrina<br><small>Blue Ribbon Cooking &bull; Seattle, Washington</small>" href="../_img/gallery/brides/bride-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/brides/bride-24sm.jpg" alt="Bride holds her boquet out in front of her"></a>
 			</div>
 		</div>
 		

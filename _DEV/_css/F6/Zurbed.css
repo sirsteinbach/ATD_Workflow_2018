@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Oswald|Roboto';
+@import 'https://fonts.googleapis.com/css?family=Oswald';
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
 @charset "UTF-8";
 
@@ -5775,10 +5775,10 @@ html.is-reveal-open body {
 body {
   margin: 0px;
   height: auto;
-  font-family: 'Roboto',Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-family: Arial,sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 16px;
-  background: #272727 url("https://abouttheday.com/_img/universal/bg_body_dk.gif") repeat center top;
+  background: #333 url("../../_img/universal/bgBody_dk.gif") repeat center top;
 }
 
 /*Background No Longer Visible*/
@@ -6322,7 +6322,7 @@ blockquote {
 @media screen and (min-width:58.0625em) {
   .top-bar .submenu a {
     padding: .75em 1.5em;
-    font: normal 1em 'Roboto',Arial,sans-serif;
+    font: normal 1em Arial,sans-serif;
     text-transform: none;
     white-space: nowrap;
   }
@@ -6343,7 +6343,7 @@ blockquote {
 @media screen and (min-width:58.0625em) {
   .top-bar .submenu .active a {
     color: #CCC;
-    font: normal 1em 'Roboto',Arial,sans-serif;
+    font: normal 1em Arial,sans-serif;
     text-transform: none;
     background: #444;
   }

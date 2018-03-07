@@ -166,8 +166,8 @@
 								<select name="cf_who" id="Who" class="classic">
 									<option value="BR"<?php echo $who=="Bride"?" selected":"";?>>I&rsquo;m the Bride</option>
 									<option value="GR"<?php echo $who=="Groom"?" selected":"";?>>I&rsquo;m the Groom</option>
-									<option value="BP">I&rsquo;m the Bride's Parent</option>
-									<option value="GP">I&rsquo;m the Groom's Parent</option>
+									<option value="BP">I&rsquo;m the Bride&rsquo;s Parent</option>
+									<option value="GP">I&rsquo;m the Groom&rsquo;s Parent</option>
 									<option value="CO">I&rsquo;m the Coordinator</option>
 									<option value="XX">I&rsquo;m a Gay Partner</option>
 									<option value="FR">I&rsquo;m a Friend</option>
@@ -192,7 +192,7 @@
 							<!--NAME 1-->
 							<div class="input-group">
 								<span class="input-group-addon"><i id="iName1" class="fa fa-female fa-fw"></i></span>
-								<input class="input-group-field" type="text" id="Name1" name="cf_name1" value="<?php echo((isset($_GET['Name1']))?htmlspecialchars($_GET['Name1']):"");?>" placeholder="Bride's First & Last Name" required pattern="[a-zA-Z\s.']+.{3,}">
+								<input class="input-group-field" type="text" id="Name1" name="cf_name1" value="<?php echo((isset($_GET['Name1']))?htmlspecialchars($_GET['Name1']):"");?>" placeholder="Bride&rsquo;s First & Last Name" required pattern="[a-zA-Z\s.']+.{3,}">
 								<span class="input-group-error">
 								<span class="input-group-cell"></span>
 								<span class="input-group-cell">
@@ -204,7 +204,7 @@
 							<!--NAME 2-->
 							<div class="input-group">
 								<span class="input-group-addon"><i id="iName2" class="fa fa-male fa-fw"></i></span>
-								<input class="input-group-field" type="text" id="Name2" name="cf_name2" value="<?php echo((isset($_GET['Name2']))?htmlspecialchars($_GET['Name2']):"");?>" placeholder="Groom's First & Last Name" required pattern="[a-zA-Z\s.']+.{3,}">
+								<input class="input-group-field" type="text" id="Name2" name="cf_name2" value="<?php echo((isset($_GET['Name2']))?htmlspecialchars($_GET['Name2']):"");?>" placeholder="Groom&rsquo;s First & Last Name" required pattern="[a-zA-Z\s.']+.{3,}">
 								<span class="input-group-error">
 								<span class="input-group-cell"></span>
 								<span class="input-group-cell">

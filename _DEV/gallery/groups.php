@@ -65,52 +65,52 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-01.jpg" data-caption="Joshua & Katie<br><small>Envornment Services Building - University Place, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-01sm.jpg" alt="The Wedding party looks great posing in the trees"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-01.jpg" data-caption="Joshua & Katie<a href='/blog/wedding-jkk/' target='_blank'>&nbsp;View Blog</a><br><small>Envornment Services Building &bull; University Place, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-01sm.jpg" alt="The Wedding party looks great posing in the trees"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-02.jpg" data-caption="Josh & Breanna<br><small>Victory Memorial Church - Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-02sm.jpg" alt="Wedding at Victory Memorial Church - Guymon, Oklahoma"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-02.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Victory Memorial Church &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-02sm.jpg" alt="Wedding at Victory Memorial Church &bull; Guymon, Oklahoma"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-03.jpg" data-caption="Ari & Janet<br><small>Princeville - Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-03sm.jpg" alt="Wedding family all jumps up in Princeville, Hawaii"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-03.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville &bull; Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-03sm.jpg" alt="Wedding family all jumps up in Princeville, Hawaii"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-04.jpg" data-caption="Tupac & Ayiana<br><small>Indian Wells Country Club - Palm Desert, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-04sm.jpg" alt="Wedding party poses between the boulders in Palm Desert"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-04.jpg" data-caption="Tupac & Ayiana<br><small>Indian Wells Country Club &bull; Palm Desert, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-04sm.jpg" alt="Wedding party poses between the boulders in Palm Desert"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-05.jpg" data-caption="Tyler & Kaelynn<br><small>Chateau Rive - Spokane, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-05sm.jpg" alt="Groom and groomsmen shine for a photo at Chateau Rive"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-05.jpg" data-caption="Tyler & Kaelynn<a href='/blog/w_tkc/' target='_blank'>&nbsp;View Blog</a><br><small>Chateau Rive &bull; Spokane, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-05sm.jpg" alt="Groom and groomsmen shine for a photo at Chateau Rive"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-06.jpg" data-caption="Michael & Kristin<br><small>Promise Garden - Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-06sm.jpg" alt="Wedding party in a relaxed pose at Promise Gardens"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-06.jpg" data-caption="Michael & Kristin<br><small>Promise Garden &bull; Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-06sm.jpg" alt="Wedding party in a relaxed pose at Promise Gardens"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-07.jpg" data-caption="Chris & Yoriko<br><small>The Harbor Club - Bellveue, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-07sm.jpg" alt="Bride and her lovely maids in yellow at the Harbor Club"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-07.jpg" data-caption="Chris & Yoriko<br><small>The Harbor Club &bull; Bellveue, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-07sm.jpg" alt="Bride and her lovely maids in yellow at the Harbor Club"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-08.jpg" data-caption="Brad & Amber<br><small>The Dunes - Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-08sm.jpg" alt="Wedding party with blue umbrellas in the rain"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-08.jpg" data-caption="Brad & Amber<a href='/blog/wedding-bal/' target='_blank'>&nbsp;View Blog</a><br><small>The Dunes &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-08sm.jpg" alt="Wedding party with blue umbrellas in the rain"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-09.jpg" data-caption="Trevor & Jarita<br><small>Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-09sm.jpg" alt="The full wedding party poses"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-09.jpg" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>&nbsp;View Blog</a><br><small>Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-09sm.jpg" alt="The full wedding party poses"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-10.jpg" data-caption="Garrett & Janelle<br><small>Barn Anew B&B - Mitchell, Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-10sm.jpg" alt="Wedding party walking in a line at Barn Anew B&B"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-10.jpg" data-caption="Garrett & Janelle<a href='/blog/wedding-gjc/' target='_blank'>&nbsp;View Blog</a><br><small>Barn Anew B&B &bull; Mitchell, Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-10sm.jpg" alt="Wedding party walking in a line at Barn Anew B&B"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-11.jpg" data-caption="Derek & Christina<br><small>Edgewood Golf Resort - Stateline, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-11sm.jpg" alt="Wedding guys stand by Lake Tahoe"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-11.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood Golf Resort &bull; Stateline, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-11sm.jpg" alt="Wedding guys stand by Lake Tahoe"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-12.jpg" data-caption="Brian & Jocelyn<br><small>Balboa Park - San Diego, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-12sm.jpg" alt="Wedding party at Balboa Park"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-12.jpg" data-caption="Brian & Jocelyn<br><small>Balboa Park &bull; San Diego, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-12sm.jpg" alt="Wedding party at Balboa Park"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-13.jpg" data-caption="Josh & Breanna<br><small>Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-13sm.jpg" alt="Bride and her Bridesmaids all dressed in yellow"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-13.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-13sm.jpg" alt="Bride and her Bridesmaids all dressed in yellow"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-14.jpg" data-caption="Nathan & Emily<br><small>Gas Works Park - Seattle, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-14sm.jpg" alt="Wedding party jumps very high at Gas Works Park"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-14.jpg" data-caption="Nathan & Emily<br><small>Gas Works Park &bull; Seattle, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-14sm.jpg" alt="Wedding party jumps very high at Gas Works Park"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-15.jpg" data-caption="Derek & Christina<br><small>Edgewood Golf Resort - Stateline, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-15sm.jpg" alt="Wedding party poses by Lake Tahoe"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-15.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood Golf Resort &bull; Stateline, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-15sm.jpg" alt="Wedding party poses by Lake Tahoe"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-16.jpg" data-caption="Macy & Cassie<br><small>Quartz Mountain Resort - Lone Wolf, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-16sm.jpg" alt="Bridal dress, flowers, and jewlery"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-16.jpg" data-caption="Macy & Cassie<br><small>Quartz Mountain Resort &bull; Lone Wolf, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-16sm.jpg" alt="Bridal dress, flowers, and jewlery"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-17.jpg" data-caption="Mike & Casey<br><small>Rancho Palos Verdes, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-17sm.jpg" alt="Large wedding party photo at Point Vicente"></a>
@@ -122,19 +122,19 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-19.jpg" data-caption="Dustin & Miranda<br><small>Buena Vista, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-19sm.jpg" alt="Wedding party poses at sunset in Buena Vista, Colorado"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-20.jpg" data-caption="Cameron & Sabrina<br><small>Rancho De La Fuente - Lakeport, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-20sm.jpg" alt="Bride with red boots and the boys"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-20.jpg" data-caption="Cameron & Sabrina<br><small>Rancho De La Fuente &bull; Lakeport, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-20sm.jpg" alt="Bride with red boots and the boys"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-21.jpg" data-caption="Chris & Michelle<br><small>Bok Tower - Lake Wales, Florida</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-21sm.jpg" alt="Wedding party poses at Bok Tower"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-21.jpg" data-caption="Chris & Michelle<a href='/blog/w_cmp/' target='_blank'>&nbsp;View Blog</a><br><small>Bok Tower &bull; Lake Wales, Florida</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-21sm.jpg" alt="Wedding party poses at Bok Tower"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-22.jpg" data-caption="Jason & Chelsie<br><small>David Arthur Vineyards - St. Helena, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-22sm.jpg" alt="Hot Bride with all the Groomsmen and cigars"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-22.jpg" data-caption="Jason & Chelsie<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>David Arthur Vineyards &bull; St. Helena, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-22sm.jpg" alt="Hot Bride with all the Groomsmen and cigars"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-23.jpg" data-caption="Micheal & Meredith<br><small>Shelter Island - San Diego, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-23sm.jpg" alt="Bride and her girls get a quick pose before ceremony"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-23.jpg" data-caption="Micheal & Meredith<br><small>Shelter Island &bull; San Diego, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-23sm.jpg" alt="Bride and her girls get a quick pose before ceremony"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-24.jpg" data-caption="Michael & Sara<br><small>7N Ranch - Ririe, Idaho</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-24sm.jpg" alt="Wedding party looks at the Bride and Groom kissing at 7N Ranch"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/groups/groups-24.jpg" data-caption="Mike & Sara<a href='/blog/w_msr/' target='_blank'>&nbsp;View Blog</a><br><small>7N Ranch &bull; Ririe, Idaho</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/groups/groups-24sm.jpg" alt="Wedding party looks at the Bride and Groom kissing at 7N Ranch"></a>
 			</div>
 		</div>
 		

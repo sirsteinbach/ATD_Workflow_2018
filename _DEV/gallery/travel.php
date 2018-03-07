@@ -98,7 +98,7 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/travel/travel-11.jpg" data-caption="Cerkev Marijinega Vnebovzetja<br><small>Bled, Slovenia</small>"><img class="thumbnail" nopin="nopin" src="../_img/gallery/travel/travel-11sm.jpg" alt="Pilgrimage Church of the Assumption of Maria in the morning"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/travel/travel-12.jpg" data-caption="Sonia Feeds The Birds<br><small>Piazza San Marco - Venice, Italy</small>"><img class="thumbnail" nopin="nopin" src="../_img/gallery/travel/travel-12sm.jpg" alt="Birds attack Sonia while she tries to feed them in Piazza San Marco"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/travel/travel-12.jpg" data-caption="Sonia Feeds The Birds<br><small>Piazza San Marco &bull; Venice, Italy</small>"><img class="thumbnail" nopin="nopin" src="../_img/gallery/travel/travel-12sm.jpg" alt="Birds attack Sonia while she tries to feed them in Piazza San Marco"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/travel/travel-13.jpg" data-caption="Soriano nel Cimino at Night<br><small>Soriano nel Cimino, Italy</small>"><img class="thumbnail" nopin="nopin" src="../_img/gallery/travel/travel-13sm.jpg" alt="Soriano nel Cimino Italy lights up at night"></a>

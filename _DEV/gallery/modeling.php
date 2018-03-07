@@ -60,27 +60,27 @@
 			<!--PHOTONAV-->
 			<?php require("../_php/navPhoto.php");?>
 			
-		</section>
+		</section><!-- <a href='/blog/m_df/' target='_blank'>&nbsp;View Blog</a> -->
 		
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Mackenzie & Jennifer<br><small>The Hoodoo's - Kamloops, British Columbia</small>" href="/_img/gallery/modeling/model-01.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-01sm.jpg" alt="Two beautiful girls pose dramaticaly at the edge of night in the dying light"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Mackenzie & Jennifer<a href='/blog/m_mj/' target='_blank'>&nbsp;View Blog</a><br><small>The Hoodoo's &bull; Kamloops, British Columbia</small>" href="/_img/gallery/modeling/model-01.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-01sm.jpg" alt="Two beautiful girls pose dramaticaly at the edge of night in the dying light"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Studio - Olympia, Washington</small>" href="/_img/gallery/modeling/model-02.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-02sm.jpg" alt="Sexy blue eyed model with blue Ibanez Guitar"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Studio &bull; Olympia, Washington</small>" href="/_img/gallery/modeling/model-02.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-02sm.jpg" alt="Sexy blue eyed model with blue Ibanez Guitar"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Mackenzie<br><small>Kamloops, British Columbia</small>" href="/_img/gallery/modeling/model-03.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-03sm.jpg" alt="Red haired model in sits in strawgrass in Kamloops, BC"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Engrid<br><small>Manchester Grand Hyatt - San Diego, California</small>" href="/_img/gallery/modeling/model-04.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-04sm.jpg" alt="Beautiful Bride look out from behind her viel at Manchester Grand Hyatt"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Engrid<br><small>Manchester Grand Hyatt &bull; San Diego, California</small>" href="/_img/gallery/modeling/model-04.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-04sm.jpg" alt="Beautiful Bride look out from behind her viel at Manchester Grand Hyatt"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Kim<br><small>Pacifica Gardens - Grants Pass, Oregon</small>" href="/_img/gallery/modeling/model-05.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-05sm.jpg" alt="Cute blonde poses in the forest at Pacifica Gardens"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Kim<br><small>Pacifica Gardens &bull; Grants Pass, Oregon</small>" href="/_img/gallery/modeling/model-05.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-05sm.jpg" alt="Cute blonde poses in the forest at Pacifica Gardens"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Danielle<br><small>Lake Paul, British Columbia</small>" href="/_img/gallery/modeling/model-06.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-06sm.jpg" alt="Mocha skin beauty models with a straw hat in a wheat field"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Danielle<a href='/blog/m_df/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Paul, British Columbia</small>" href="/_img/gallery/modeling/model-06.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-06sm.jpg" alt="Mocha skin beauty models with a straw hat in a wheat field"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="LaShelle<br><small>Destin Beach, Florida</small>" href="/_img/gallery/modeling/model-07.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-07sm.jpg" alt="Black hair black bikini model on Destin beach"></a>
@@ -101,13 +101,13 @@
 				<a class="fancybox" data-fancybox="group" data-caption="Tasha, Courteny, Tessa<br><small>Salmon Arm, British Columbia</small>" href="/_img/gallery/modeling/model-12.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-12sm.jpg" alt="Tasha, Courteny, Tessa freeze as they model in the snow"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Morgan<br><small>Marilyn Monroe Tribute - Olympia, Washington</small>" href="/_img/gallery/modeling/model-13.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-13sm.jpg" alt="Marilyn Monroe Lookalike Shoot in Olympia, Washington"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Morgan<a href='/blog/p_me/' target='_blank'>&nbsp;View Blog</a><br><small>Marilyn Monroe Tribute &bull; Olympia, Washington</small>" href="/_img/gallery/modeling/model-13.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-13sm.jpg" alt="Marilyn Monroe Lookalike Shoot in Olympia, Washington"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Alexis<br><small>Oceanside, California</small>" href="/_img/gallery/modeling/model-14.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-14sm.jpg" alt="Alexis looks beutiful in fresh makeup and hairdo"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Museum of Glass - Tacoma, Washington</small>" href="/_img/gallery/modeling/model-15.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-15sm.jpg" alt="Beautiful model poses along brick wall at The Museum of Glass"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Museum of Glass &bull; Tacoma, Washington</small>" href="/_img/gallery/modeling/model-15.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-15sm.jpg" alt="Beautiful model poses along brick wall at The Museum of Glass"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Holly<br><small>Azalea, Oregon</small>" href="/_img/gallery/modeling/model-16.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-16sm.jpg" alt="Holly poses in the middle of the road"></a>
@@ -122,19 +122,19 @@
 				<a class="fancybox" data-fancybox="group" data-caption="Tessa<br><small>Salmon Arm, British Columbia</small>" href="/_img/gallery/modeling/model-19.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-19sm.jpg" alt="Beautiful black haired girl poses by a wagon wheel in the snow"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Katrina<br><small>Snow White Theme - Lacey, Washington</small>" href="/_img/gallery/modeling/model-20.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-20sm.jpg" alt="Beautiful girl is Snow White looking at red apple in foreground"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Katrina<a href='/blog/p_ks/' target='_blank'>&nbsp;View Blog</a><br><small>Snow White Theme &bull; Lacey, Washington</small>" href="/_img/gallery/modeling/model-20.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-20sm.jpg" alt="Beautiful girl is Snow White looking at red apple in foreground"></a>
 		</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Morgan<br><small>Marilyn Monroe Tribute - Olympia, Washington</small>" href="/_img/gallery/modeling/model-21.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-21sm.jpg" alt="Marilyn Monroe Lookalike Shoot in Olympia, Washington"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Morgan<a href='/blog/p_me/' target='_blank'>&nbsp;View Blog</a><br><small>Marilyn Monroe Tribute &bull; Olympia, Washington</small>" href="/_img/gallery/modeling/model-21.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-21sm.jpg" alt="Marilyn Monroe Lookalike Shoot in Olympia, Washington"></a>
 		</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Haliegh<br><small>Glendale, Oregon</small>" href="/_img/gallery/modeling/model-22.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-22sm.jpg" alt="Modeling shoot with Haliegh in Azalea, Oregon"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Haliegh<a href='/blog/p_hg/' target='_blank'>&nbsp;View Blog</a><br><small>Glendale, Oregon</small>" href="/_img/gallery/modeling/model-22.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-22sm.jpg" alt="Modeling shoot with Haliegh in Azalea, Oregon"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Kim<br><small>Pacifica Gardens - Grants Pass, Oregon</small>" href="/_img/gallery/modeling/model-23.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-23sm.jpg" alt="Cute blonde poses in the grass at Pacifica Gardens"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Kim<br><small>Pacifica Gardens &bull; Grants Pass, Oregon</small>" href="/_img/gallery/modeling/model-23.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-23sm.jpg" alt="Cute blonde poses in the grass at Pacifica Gardens"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Museum Of Glass - Tacoma, Washington</small>" href="/_img/gallery/modeling/model-24.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-24sm.jpg" alt="Girl in black dress at The Museum of Glass in Tacoma"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Museum Of Glass &bull; Tacoma, Washington</small>" href="/_img/gallery/modeling/model-24.jpg"><img class="thumbnail" nopin="nopin" src="/_img/gallery/modeling/model-24sm.jpg" alt="Girl in black dress at The Museum of Glass in Tacoma"></a>
 			</div>
 		</div>
 		

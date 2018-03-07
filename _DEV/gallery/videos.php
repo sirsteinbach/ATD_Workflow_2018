@@ -82,7 +82,7 @@
 				<a data-fancybox class="fancybox" href="//player.vimeo.com/video/100960549?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/video/video-05sm.jpg" alt="Wedding in Palos Verdes, California"></a>
 			</div>
 			<div class="column">
-				<a data-fancybox class="fancybox" href="//player.vimeo.com/video/101019774?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/video/video-06sm.jpg" alt="Bill Carter music video - What A Life"></a>
+				<a data-fancybox class="fancybox" href="//player.vimeo.com/video/101019774?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/video/video-06sm.jpg" alt="Bill Carter music video &bull; What A Life"></a>
 			</div>
 		</div>
 		

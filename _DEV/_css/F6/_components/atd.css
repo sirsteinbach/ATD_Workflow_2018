@@ -1,17 +1,28 @@
-@import 'https://fonts.googleapis.com/css?family=Oswald|Roboto';
+@import 'https://fonts.googleapis.com/css?family=Oswald';
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
 
 /*GLOBAL ELEMENTS*/
-body{margin:0px;height:auto;font-family:'Roboto',Helvetica Neue,Helvetica,Arial,sans-serif;text-rendering:optimizeLegibility;font-size:16px;background:#272727 url('https://abouttheday.com/_img/universal/bg_body_dk.gif') repeat center top;}
+body {
+	margin: 0px;
+	height: auto;
+	font-family: Arial,sans-serif;
+	text-rendering: optimizeLegibility;
+	font-size: 16px;
+	background: #333 url("../../_img/universal/bgBody_dk.gif") repeat center top;
+}
 
 /*Background No Longer Visible*/
-@media screen and (max-width:75em){.noNeedBg{display:none !important;}}
+@media screen and (max-width:75em){
+	.noNeedBg{
+		display: none !important;
+	}
+}
 
-section{background-color:#F0F0F0;color:#333;margin:0 0 1em;padding:1em;border-radius:0.5em;overflow:hidden;}
-section p,.callout p{font-size:0.9em;line-height:1.2em;margin:0.75em 0;}
-section p a:link, section p a:visited, section p a:active{text-decoration:none;}
-section p a:hover{color:#228E90;}
-section ul{font-size:0.9em;line-height:1.1em;list-style:none;}
+section {background-color:#F0F0F0;color:#333;margin:0 0 1em;padding:1em;border-radius:0.5em;overflow:hidden;}
+section p,.callout p {font-size:0.9em;line-height:1.2em;margin:0.75em 0;}
+section p a:link, section p a:visited, section p a:active {text-decoration:none;}
+section p a:hover {color:#228E90;}
+section ul {font-size:0.9em;line-height:1.1em;list-style:none;}
 
 .secHead{position:inherit;border-radius:.4em .4em 0 0;margin:-1em -1em 0em;padding:1em 1em 1px;}
 .secHead.nav{padding:1.5em 1em .5em 1.15em;}
@@ -130,10 +141,10 @@ blockquote{line-height:1.1;color:#999;font-size:1em;font-style:italic;font-weigh
 .top-bar .submenu li:first-child{margin-top:0;}
 @media screen and (min-width:58.0625em){.top-bar .submenu li:first-child{margin-top:18px;}}
 .top-bar .submenu a{color:#CCC;padding:10px 1.5em;text-transform:uppercase;}
-@media screen and (min-width:58.0625em){.top-bar .submenu a{padding:.75em 1.5em;font:normal 1em 'Roboto',Arial,sans-serif;text-transform:none;white-space:nowrap;}}
+@media screen and (min-width:58.0625em){.top-bar .submenu a{padding:.75em 1.5em;font:normal 1em Arial,sans-serif;text-transform:none;white-space:nowrap;}}
 .top-bar .submenu a:hover,.top-bar .submenu .active a:hover{color:orange;background-color:#444;}
 .top-bar .submenu .active a{color:#CCC;font:normal 1em 'Oswald',Arial,sans-serif;text-transform:uppercase;}
-@media screen and (min-width:58.0625em){.top-bar .submenu .active a{color:#CCC;font:normal 1em 'Roboto',Arial,sans-serif;text-transform:none;background:#444;}}
+@media screen and (min-width:58.0625em){.top-bar .submenu .active a{color:#CCC;font:normal 1em Arial,sans-serif;text-transform:none;background:#444;}}
 
 /* Created by JAVASCRIPT */
 [data-chevron_R]:before{font-family:'fontawesome';content:'\f105';margin-left:-10px;margin-right:10px;padding-left:5px;color:orange;}

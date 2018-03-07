@@ -61,81 +61,81 @@
 			<!--PHOTONAV-->
 			<?php require("../_php/navPhoto.php");?>
 			
-		</section>
+		</section><!-- <a href='/blog/e_cmp/' target='_blank'>&nbsp;View Blog</a> -->
 		
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Brandon & Katie<br><small>Washington Bulb Company - Mt. Vernon, Washington</small>" href="/_img/gallery/engagements1/eng1-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-01sm.jpg" alt="Kissing in endless pink tulips"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Brandon & Katie<br><small>Washington Bulb Company &bull; Mt. Vernon, Washington</small>" href="../_img/gallery/engagements1/eng1-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-01sm.jpg" alt="Kissing in endless pink tulips"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Tony & Anh-Thu<br><small>Santorini, Greece</small>" href="/_img/gallery/engagements1/eng1-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-02sm.jpg" alt="Taking a selfie with Oia in the background"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Tony & Anh-Thu<br><small>Santorini, Greece</small>" href="../_img/gallery/engagements1/eng1-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-02sm.jpg" alt="Taking a selfie with Oia in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" href="/_img/gallery/engagements1/eng1-03.jpg" data-fancybox="group" data-caption="Charlie & Brittany (and Moose)<br><small>Regusci Vineyards - Napa, California</small>"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-03sm.jpg" alt="Engaged couple with dog at Regusci Vineyards"></a>
+				<a class="fancybox" href="../_img/gallery/engagements1/eng1-03.jpg" data-fancybox="group" data-caption="Charlie & Brittany (and Moose)<a href='/blog/e_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-03sm.jpg" alt="Engaged couple with dog at Regusci Vineyards"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Trevor & Jarita<br><small>Kamloops, British Columbia</small>" href="/_img/gallery/engagements1/eng1-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-04sm.jpg" alt="Engagement picnic kiss under fierce Kamloops sky"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Evan & Sierra<a href='/blog/eng-esr/' target='_blank'>&nbsp;View Blog</a><br><small>Dallas, Texas</small>" href="../_img/gallery/engagements1/eng1-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-04sm.jpg" alt="Engaged couple nessles together in tall grass"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Chris & Michelle<br><small>Monterey, California</small>" href="/_img/gallery/engagements1/eng1-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-05sm.jpg" alt="Engagement Shoot in Monterey, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Chris & Michelle<a href='/blog/e_cmp/' target='_blank'>&nbsp;View Blog</a><br><small>Monterey, California</small>" href="../_img/gallery/engagements1/eng1-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-05sm.jpg" alt="Engagement Shoot in Monterey, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<br><small>Pigeon Point, California</small>" href="/_img/gallery/engagements1/eng1-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-06sm.jpg" alt="Couple kissing in the sunset near Pigeon Point"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<a href='/blog/e_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>Pigeon Point, California</small>" href="../_img/gallery/engagements1/eng1-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-06sm.jpg" alt="Couple kissing in the sunset near Pigeon Point"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<br><small>Santa Rosa, California</small>" href="/_img/gallery/engagements1/eng1-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-07sm.jpg" alt="Engagement Shoot in Santa Rosa, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<a href='/blog/e_jct/' target='_blank'>&nbsp;View Blog</a><br><small>Santa Rosa, California</small>" href="../_img/gallery/engagements1/eng1-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-07sm.jpg" alt="Engagement Shoot in Santa Rosa, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Brian & Carey<br><small>Hoboken, New Jersey</small>" href="/_img/gallery/engagements1/eng1-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-08sm.jpg" alt="Engaged couples long shadows in Hoboken, New Jersey"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Brian & Carey<br><small>Hoboken, New Jersey</small>" href="../_img/gallery/engagements1/eng1-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-08sm.jpg" alt="Engaged couples long shadows in Hoboken, New Jersey"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<br><small>Newport Beach, California</small>" href="/_img/gallery/engagements1/eng1-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-09sm.jpg" alt="Engagement Shoot in Newport Beach, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/e_gst/' target='_blank'>&nbsp;View Blog</a><br><small>Newport Beach, California</small>" href="../_img/gallery/engagements1/eng1-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-09sm.jpg" alt="Engagement Shoot in Newport Beach, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Chad & Fallon<br><small>San Luis Obispo, California</small>" href="/_img/gallery/engagements1/eng1-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-10sm.jpg" alt="Engagement Shoot in San Luis Obispo, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Chad & Fallon<a href='/blog/e_cfo/' target='_blank'>&nbsp;View Blog</a><br><small>San Luis Obispo, California</small>" href="../_img/gallery/engagements1/eng1-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-10sm.jpg" alt="Engagement Shoot in San Luis Obispo, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="James & Karen<br><small>Santa Cruz, California</small>" href="/_img/gallery/engagements1/eng1-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-11sm.jpg" alt="Engagement Shoot in Santa Cruz, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="James & Karen<br><small>Santa Cruz, California</small>" href="../_img/gallery/engagements1/eng1-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-11sm.jpg" alt="Engagement Shoot in Santa Cruz, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<br><small>Santa Rosa, California</small>" href="/_img/gallery/engagements1/eng1-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-12sm.jpg" alt="Engagement Shoot in Santa Rosa, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<a href='/blog/e_jct/' target='_blank'>&nbsp;View Blog</a><br><small>Santa Rosa, California</small>" href="../_img/gallery/engagements1/eng1-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-12sm.jpg" alt="Engagement Shoot in Santa Rosa, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Noah & Alyson<br><small>Charlotte, North Carolina</small>" href="/_img/gallery/engagements1/eng1-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-13sm.jpg" alt="Engagement Shoot in Charlotte, North Carolina"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Noah & Alyson<br><small>Charlotte, North Carolina</small>" href="../_img/gallery/engagements1/eng1-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-13sm.jpg" alt="Engagement Shoot in Charlotte, North Carolina"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Kyle & Morgan<br><small>Logan, Ohio</small>" href="/_img/gallery/engagements1/eng1-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-14sm.jpg" alt="Engagement Shoot in Logan, Ohio"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Trevor & Jarita<a href='/blog/e_tjk/' target='_blank'>&nbsp;View Blog</a><br><small>Kamloops, Britsh Columbia</small>" href="../_img/gallery/engagements1/eng1-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-14sm.jpg" alt="Engagement Shoot in Logan, Ohio"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Zac & Kim<br><small>Pacifica Gardens, Oregon</small>" href="/_img/gallery/engagements1/eng1-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-15sm.jpg" alt="Engagement Shoot at Pacifica Gardens in Grants Pass, Oregon"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Zac & Kim<br><small>Pacifica Gardens, Oregon</small>" href="../_img/gallery/engagements1/eng1-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-15sm.jpg" alt="Engagement Shoot at Pacifica Gardens in Grants Pass, Oregon"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany (and Moose)<br><small>Napa, California</small>" href="/_img/gallery/engagements1/eng1-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-16sm.jpg" alt="Engagement Shoot in Napa, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany (and Moose)<a href='/blog/e_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="../_img/gallery/engagements1/eng1-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-16sm.jpg" alt="Engagement Shoot in Napa, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Brian & Carey<br><small>Hoboken, New Jersey</small>" href="/_img/gallery/engagements1/eng1-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-17sm.jpg" alt="Sun flairs around engaged couples heads in Hoboken, New Jersey"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Brian & Carey<br><small>Hoboken, New Jersey</small>" href="../_img/gallery/engagements1/eng1-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-17sm.jpg" alt="Sun flairs around engaged couples heads in Hoboken, New Jersey"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="James & Candice<br><small>Dunedin, Florida</small>" href="/_img/gallery/engagements1/eng1-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-18sm.jpg" alt="Couple kissing while the fog rolls into Dunedin"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="James & Candice<br><small>Dunedin, Florida</small>" href="../_img/gallery/engagements1/eng1-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-18sm.jpg" alt="Couple kissing while the fog rolls into Dunedin"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jeffrey & Angela<br><small>Key Largo, Florida</small>" href="/_img/gallery/engagements1/eng1-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-19sm.jpg" alt="Engagement Shoot in Key Largo, Florida"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jeffrey & Angela<a href='/blog/w_jas/' target='_blank'>&nbsp;View Blog</a><br><small>Key Largo, Florida</small>" href="../_img/gallery/engagements1/eng1-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-19sm.jpg" alt="Engagement Shoot in Key Largo, Florida"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Markus & Kat<br><small>Halifax, Nova Scotia</small>" href="/_img/gallery/engagements1/eng1-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-20sm.jpg" alt="Engagement Shoot in Halifax, Nova Scotia"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Markus & Kat<br><small>Halifax, Nova Scotia</small>" href="../_img/gallery/engagements1/eng1-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-20sm.jpg" alt="Engagement Shoot in Halifax, Nova Scotia"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Dane & Adrienne<br><small>Mariner Stadium - Seattle, Washington</small>" href="/_img/gallery/engagements1/eng1-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-21sm.jpg" alt="Engagement Shoot at Mariner Stadium in Seattle, Washington"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Dane & Adrienne<a href='/blog/e_dae/' target='_blank'>&nbsp;View Blog</a><br><small>Mariner Stadium &bull; Seattle, Washington</small>" href="../_img/gallery/engagements1/eng1-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-21sm.jpg" alt="Engagement Shoot at Mariner Stadium in Seattle, Washington"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Rejav & Neha<br><small>Seattle, Washington</small>" href="/_img/gallery/engagements1/eng1-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-22sm.jpg" alt="Engagement Shoot in Seattle, Washington"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Rejav & Neha<a href='/blog/e_rnc/' target='_blank'>&nbsp;View Blog</a><br><small>Seattle, Washington</small>" href="../_img/gallery/engagements1/eng1-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-22sm.jpg" alt="Engagement Shoot in Seattle, Washington"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Gilmer & Ashley<br><small>Destin, Florida</small>" href="/_img/gallery/engagements1/eng1-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-23sm.jpg" alt="Engagement Shoot in Destin, Florida"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Gilmer & Ashley<br><small>Destin, Florida</small>" href="../_img/gallery/engagements1/eng1-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-23sm.jpg" alt="Engagement Shoot in Destin, Florida"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Danny & Joycelyn<br><small>Centennial Park - Coronado, California</small>" href="/_img/gallery/engagements1/eng1-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements1/eng1-24sm.jpg" alt="Engaged couple stands tall over San Diego skyline from Centennial Park"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Danny & Joycelyn<a href='/blog/eng-djz/' target='_blank'>&nbsp;View Blog</a><br><small>Centennial Park &bull; Coronado, California</small>" href="../_img/gallery/engagements1/eng1-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements1/eng1-24sm.jpg" alt="Engaged couple stands tall over San Diego skyline from Centennial Park"></a>
 			</div>
 		</div>
 		
