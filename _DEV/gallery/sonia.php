@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="SJF";
 	$thisMenu="Gallery";
@@ -59,36 +58,36 @@
 			<!--PHOTONAV-->
 			<?php require("../_php/navPhoto.php");?>
 			
-		</section><!-- <a href='/blog/wedding-scl/' target='_blank'>&nbsp;View Blog</a> -->
+		</section><!-- <a href='/blog/wedding-scl/' target='_blank'>View Blog</a> -->
 		
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Evan & Sierra<a href='/blog/wedding-esr/' target='_blank'>&nbsp;View Blog</a><br><small>Air Force Academy &bull; Colorado Springs</small>" href="../_img/gallery/sonia/sjs-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-01sm.jpg" alt="Air Force Wedding Couple Kiss in Snow Near Colorado Springs"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Evan & Sierra<a href='/blog/wedding-esr/' target='_blank'>View Blog</a><br><small>Air Force Academy &bull; Colorado Springs</small>" href="../_img/gallery/sonia/sjs-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-01sm.jpg" alt="Air Force Wedding Couple Kiss in Snow Near Colorado Springs"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Calistoga, California</small>" href="../_img/gallery/sonia/sjs-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-02sm.jpg" alt="Wedding in Calistoga, California"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<a href='/blog/wedding-jce/' target='_blank'>View Blog</a><br><small>Calistoga, California</small>" href="../_img/gallery/sonia/sjs-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-02sm.jpg" alt="Wedding in Calistoga, California"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Meshan & Alicia<a href='/blog/wedding-mat/' target='_blank'>&nbsp;View Blog</a><br><small>The Legislative Building &bull; Regina, Saskatchewan</small>" href="../_img/gallery/sonia/sjs-03.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-03sm.jpg" alt="Bride smiles on the steps of the Legislative Building in Regina"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Meshan & Alicia<a href='/blog/wedding-mat/' target='_blank'>View Blog</a><br><small>The Legislative Building &bull; Regina, Saskatchewan</small>" href="../_img/gallery/sonia/sjs-03.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-03sm.jpg" alt="Bride smiles on the steps of the Legislative Building in Regina"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Justin & Cara<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>" href="../_img/gallery/sonia/sjs-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-04sm.jpg" alt="Flowergirls kiss the bride"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Justin & Cara<a href='/blog/wedding-jce/' target='_blank'>View Blog</a><br><small>Merritt, British Columbia</small>" href="../_img/gallery/sonia/sjs-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-04sm.jpg" alt="Flowergirls kiss the bride"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>&nbsp;View Blog</a><br><small>Kamloops, British Columbia</small>" href="../_img/gallery/sonia/sjs-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-05sm.jpg" alt="Bride and Groom beside a rustic GMC truck"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>View Blog</a><br><small>Kamloops, British Columbia</small>" href="../_img/gallery/sonia/sjs-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-05sm.jpg" alt="Bride and Groom beside a rustic GMC truck"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Jeff & Kristina<br><small>Blessed Sacrament &bull; Seattle, Washington</small>" href="../_img/gallery/sonia/sjs-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-06sm.jpg" alt="Wedding in Seattle, Washington"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville, Kauai, Hawaii</small>" href="../_img/gallery/sonia/sjs-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-07sm.jpg" alt="Bride and Groom pose barefoot on black rocks of Hawaii"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>View Blog</a><br><small>Princeville, Kauai, Hawaii</small>" href="../_img/gallery/sonia/sjs-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-07sm.jpg" alt="Bride and Groom pose barefoot on black rocks of Hawaii"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Chris & Jacy<br><small>Trophy Lake &bull; Port Orchard, Washington</small>" href="../_img/gallery/sonia/sjs-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-08sm.jpg" alt="Brides lovely boquet held in front of her"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Joshua & Katie<a href='/blog/wedding-jkk/' target='_blank'>&nbsp;View Blog</a><br><small>The Envornment Services Building &bull; University Place, Washington</small>" href="../_img/gallery/sonia/sjs-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-09sm.jpg" alt="The Wedding party looks great posing in the trees"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Joshua & Katie<a href='/blog/wedding-jkk/' target='_blank'>View Blog</a><br><small>The Envornment Services Building &bull; University Place, Washington</small>" href="../_img/gallery/sonia/sjs-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-09sm.jpg" alt="The Wedding party looks great posing in the trees"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Alex & Ruthie<br><small>Laconner Flats &bull; La Conner, Washington</small>" href="../_img/gallery/sonia/sjs-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-10sm.jpg" alt="Bride and Groom kiss in a wheat field under blue skies"></a>
@@ -97,7 +96,7 @@
 				<a class="fancybox" data-fancybox="group" data-caption="Holly<br><small>Azalea, Oregon</small>" href="../_img/gallery/sonia/sjs-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-11sm.jpg" alt="bride and Groom on the lawn at Trophy Lake"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany<a href='/blog/e_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="../_img/gallery/sonia/sjs-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-12sm.jpg" alt="Couple kisses in the sunset above Regusci Vineyards"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany<a href='/blog/e_cbh/' target='_blank'>View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="../_img/gallery/sonia/sjs-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-12sm.jpg" alt="Couple kisses in the sunset above Regusci Vineyards"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Ariana<br><small>Ibanez Modeling Shoot &bull; Olympia, Washington</small>" href="../_img/gallery/sonia/sjs-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-13sm.jpg" alt="Sexy blue eyes with blue Ibanez Guitar"></a>
@@ -106,28 +105,28 @@
 				<a class="fancybox" data-fancybox="group" data-caption="Tulo & Carissa<br><small>Kailua Kona, Big Island, Hawaii</small>" href="../_img/gallery/sonia/sjs-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-14sm.jpg" alt="Bride shows Yoga pose on Kailua Kona beach"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Matt & Morgan<a href='/blog/wedding-mmk/' target='_blank'>&nbsp;View Blog</a><br><small>Frazier Farmstead &bull; Milton-Freewater, Oregon</small>" href="../_img/gallery/sonia/sjs-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-15sm.jpg" alt="Country wedding with beautiful Bride and cowboy Groom"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Matt & Morgan<a href='/blog/wedding-mmk/' target='_blank'>View Blog</a><br><small>Frazier Farmstead &bull; Milton-Freewater, Oregon</small>" href="../_img/gallery/sonia/sjs-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-15sm.jpg" alt="Country wedding with beautiful Bride and cowboy Groom"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>&nbsp;View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>" href="../_img/gallery/sonia/sjs-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-16sm.jpg" alt="Bride pulls Groom in for a kiss by his suspenders in Playa del Carmen"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>" href="../_img/gallery/sonia/sjs-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-16sm.jpg" alt="Bride pulls Groom in for a kiss by his suspenders in Playa del Carmen"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<a href='/blog/e_jct/' target='_blank'>&nbsp;View Blog</a><br><small>Enriquez Estates Winery &bull; Santa Rosa, California</small>" href="../_img/gallery/sonia/sjs-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-17sm.jpg" alt="Engaged couple pose in the Enriquez Estates Winery vineyard"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jason & Chelsie<a href='/blog/e_jct/' target='_blank'>View Blog</a><br><small>Enriquez Estates Winery &bull; Santa Rosa, California</small>" href="../_img/gallery/sonia/sjs-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-17sm.jpg" alt="Engaged couple pose in the Enriquez Estates Winery vineyard"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Dustin & Miranda<br><small>Buena Vista, Colorado</small>" href="../_img/gallery/sonia/sjs-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-18sm.jpg" alt="Colorful Silouette of Bride and Groom"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Danielle<a href='/blog/m_df/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Paul, British Columbia</small>" href="../_img/gallery/sonia/sjs-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-19sm.jpg" alt="Mocha skin beauty models with a straw hat in a wheat field"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Danielle<a href='/blog/m_df/' target='_blank'>View Blog</a><br><small>Lake Paul, British Columbia</small>" href="../_img/gallery/sonia/sjs-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-19sm.jpg" alt="Mocha skin beauty models with a straw hat in a wheat field"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/w_gst/' target='_blank'>&nbsp;View Blog</a><br><small>Riverside, California</small>" href="../_img/gallery/sonia/sjs-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-20sm.jpg" alt="Groom is admired by his new wife"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/w_gst/' target='_blank'>View Blog</a><br><small>Riverside, California</small>" href="../_img/gallery/sonia/sjs-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-20sm.jpg" alt="Groom is admired by his new wife"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Daniel & Amy<br><small>San Diego Wild Animal Park &bull; Escondido, California</small>" href="../_img/gallery/sonia/sjs-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-21sm.jpg" alt="The sun shines through a passionate wedding kiss"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="James & Malorie<a href='/blog/wedding-jma/' target='_blank'>&nbsp;View Blog</a><br><small>Mogollon Rim, Arizona</small>" href="../_img/gallery/sonia/sjs-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-22sm.jpg" alt="Sunset wedding portrait at Mogollon Rim"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="James & Malorie<a href='/blog/wedding-jma/' target='_blank'>View Blog</a><br><small>Mogollon Rim, Arizona</small>" href="../_img/gallery/sonia/sjs-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-22sm.jpg" alt="Sunset wedding portrait at Mogollon Rim"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Ben & Keri<br><small>Aspen Meadow Church &bull; Colton, Oregon</small>" href="../_img/gallery/sonia/sjs-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/sonia/sjs-23sm.jpg" alt="Bridal dress, orange and yellow flowers, and jewlery"></a>

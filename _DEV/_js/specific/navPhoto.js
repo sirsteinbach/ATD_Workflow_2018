@@ -9,8 +9,8 @@ $(document).ready(function(){
 	"/gallery/modeling.php",
 	"/gallery/travel.php",
 	"/gallery/sonia.php",
-	"/gallery/stephen.php",
-	"/gallery/password.php"
+	"/gallery/stephen.php"
+	//"/gallery/password.php"
 	);
 $("#sort").change(function(){
 	goto = locations[$("#sort>option:selected").index()];

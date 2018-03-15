@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="WG5";
 	$thisMenu="Gallery";
@@ -65,76 +64,76 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-01.jpg" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>The Old Whaling Station &bull; Monterey, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-01sm.jpg" alt="Cute Bride leans out to peek at the Groom"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-01.jpg" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>View Blog</a><br><small>The Old Whaling Station &bull; Monterey, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-01sm.jpg" alt="Cute Bride leans out to peek at the Groom"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-02.jpg" data-caption="Tyler & Kaelynn<a href='/blog/w_tkc/' target='_blank'>&nbsp;View Blog</a><br><small>Chateau Rive &bull; Spokane, WA</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-02sm.jpg" alt="Wedding ceremony at Chateau Rive with smoke in the sky"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-02.jpg" data-caption="Tyler & Kaelynn<a href='/blog/w_tkc/' target='_blank'>View Blog</a><br><small>Chateau Rive &bull; Spokane, WA</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-02sm.jpg" alt="Wedding ceremony at Chateau Rive with smoke in the sky"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-03.jpg" data-caption="Joe & Kelsea<a href='/blog/wedding-jke/' target='_blank'>&nbsp;View Blog</a><br><small>Val Vista Lakes &bull; Gilbert, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-03sm.jpg" alt="Harry Potter theme wedding with Thank you in the sky"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-03.jpg" data-caption="Joe & Kelsea<a href='/blog/wedding-jke/' target='_blank'>View Blog</a><br><small>Val Vista Lakes &bull; Gilbert, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-03sm.jpg" alt="Harry Potter theme wedding with Thank you in the sky"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-04.jpg" data-caption="Jordan & Gislaine<br><small>Dragonfly Retreat &bull; Bothell, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-04sm.jpg" alt="Newly married couple walks down the isle at Dragonfly Retreat"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-05.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Thompson Park &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-05sm.jpg" alt="Bride with her lovely yellow flowers and jewelry"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-05.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>View Blog</a><br><small>Thompson Park &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-05sm.jpg" alt="Bride with her lovely yellow flowers and jewelry"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-06.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>&nbsp;View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-06sm.jpg" alt="Bride and Groom pose under the trees at Grand Princess"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-06.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-06sm.jpg" alt="Bride and Groom pose under the trees at Grand Princess"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-07.jpg" data-caption="Brad & Amber<a href='/blog/wedding-bal/' target='_blank'>&nbsp;View Blog</a><br><small>The Dunes &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-07sm.jpg" alt="Wedding party with blue umbrellas in the rain"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-07.jpg" data-caption="Brad & Amber<a href='/blog/wedding-bal/' target='_blank'>View Blog</a><br><small>The Dunes &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-07sm.jpg" alt="Wedding party with blue umbrellas in the rain"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-08.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>&nbsp;View Blog</a><br><small>Blueberry Hill Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-08sm.jpg" alt="Bride and Groom in the last light of the day at Blueberry Hill Inn"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-08.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>View Blog</a><br><small>Blueberry Hill Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-08sm.jpg" alt="Bride and Groom in the last light of the day at Blueberry Hill Inn"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-09.jpg" data-caption="Cody & Kelly<br><small>Apple Tree Lane B&B &bull; Waupaca, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-09sm.jpg" alt="Wedding rings on the marriage license"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-10.jpg" data-caption="Marc & Taya<a href='/blog/w_mtm/' target='_blank'>&nbsp;View Blog</a><br><small>Wallowa Lake &bull; Joseph, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-10sm.jpg" alt="Wedding couple kissing behind the foreground of grass"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-10.jpg" data-caption="Marc & Taya<a href='/blog/w_mtm/' target='_blank'>View Blog</a><br><small>Wallowa Lake &bull; Joseph, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-10sm.jpg" alt="Wedding couple kissing behind the foreground of grass"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-11.jpg" data-caption="Cameron & Sabrina<br><small>Rancho De La Fuente &bull; Lakeport, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-11sm.jpg" alt="Bride with red boots and the boys"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-12.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>&nbsp;View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-12sm.jpg" alt="Bride and Groom on a bridge at Red Rock State Park"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-12.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-12sm.jpg" alt="Bride and Groom on a bridge at Red Rock State Park"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-13.jpg" data-caption="Garrett & Janelle<a href='/blog/wedding-gjc/' target='_blank'>&nbsp;View Blog</a><br><small>Scotts Bluff Monument &bull; Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-13sm.jpg" alt="Wedding couple kisses with Scotts Bluff Monument in background"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-13.jpg" data-caption="Garrett & Janelle<a href='/blog/wedding-gjc/' target='_blank'>View Blog</a><br><small>Scotts Bluff Monument &bull; Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-13sm.jpg" alt="Wedding couple kisses with Scotts Bluff Monument in background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-14.jpg" data-caption="Andrew & Rikki<a href='/blog/wedding-arg/' target='_blank'>&nbsp;View Blog</a><br><small>Double JJ Resort &bull; New Era, Michigan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-14sm.jpg" alt="Wedding couple poses near Double JJ Resort"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-14.jpg" data-caption="Andrew & Rikki<a href='/blog/wedding-arg/' target='_blank'>View Blog</a><br><small>Double JJ Resort &bull; New Era, Michigan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-14sm.jpg" alt="Wedding couple poses near Double JJ Resort"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-15.jpg" data-caption="Brandon & Megan<a href='/blog/wedding-bms/' target='_blank'>&nbsp;View Blog</a><br><small>Grafton Dells River Park &bull; Milwaukee, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-15sm.jpg" alt="Bride and Groom pose back to back at sunset"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-15.jpg" data-caption="Brandon & Megan<a href='/blog/wedding-bms/' target='_blank'>View Blog</a><br><small>Grafton Dells River Park &bull; Milwaukee, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-15sm.jpg" alt="Bride and Groom pose back to back at sunset"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-16.jpg" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>The Old Whaling Station &bull; Monterey, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-16sm.jpg" alt="Bride smiles during vows at The Old Whaling Station"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-16.jpg" data-caption="Matt & Laura<a href='/blog/w_mlb/' target='_blank'>View Blog</a><br><small>The Old Whaling Station &bull; Monterey, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-16sm.jpg" alt="Bride smiles during vows at The Old Whaling Station"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-17.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-17sm.jpg" alt="Shotgun shell Boutonnière on Groom"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-17.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-17sm.jpg" alt="Shotgun shell Boutonnière on Groom"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-18.jpg" data-caption="Aaron & Jamie<br><small>Edmonton, Alberta</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-18sm.jpg" alt="A wedding kiss on the cheek in the snow in Edmonton"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-19.jpg" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>&nbsp;View Blog</a><br><small>Moore Mansion in Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-19sm.jpg" alt="Big sky over wedding couple at Moore Mansion"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-19.jpg" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>View Blog</a><br><small>Moore Mansion in Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-19sm.jpg" alt="Big sky over wedding couple at Moore Mansion"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-20.jpg" data-caption="Taylor & Hannah<a href='/blog/wedding-ths/' target='_blank'>&nbsp;View Blog</a><br><small>Springwood Ranch &bull; Ellensburg, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-20sm.jpg" alt="Lovely wedding boquet at Springwood Ranch"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-20.jpg" data-caption="Taylor & Hannah<a href='/blog/wedding-ths/' target='_blank'>View Blog</a><br><small>Springwood Ranch &bull; Ellensburg, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-20sm.jpg" alt="Lovely wedding boquet at Springwood Ranch"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-21.jpg" data-caption="Meshan & Alicia<a href='/blog/wedding-mat/' target='_blank'>&nbsp;View Blog</a><br><small>Legislative Building &bull; Regina, Saskatchewan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-21sm.jpg" alt="Bride eye in oval mirror"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-21.jpg" data-caption="Meshan & Alicia<a href='/blog/wedding-mat/' target='_blank'>View Blog</a><br><small>Legislative Building &bull; Regina, Saskatchewan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-21sm.jpg" alt="Bride eye in oval mirror"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-22.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>&nbsp;View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-22sm.jpg" alt="Wedding couple dance in a blur"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-22.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-22sm.jpg" alt="Wedding couple dance in a blur"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-23.jpg" data-caption="John & Heather<a href='/blog/w_jhm/' target='_blank'>&nbsp;View Blog</a><br><small>Peninsula Room &bull; Traverse City, Michigan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-23sm.jpg" alt="Wedding couple silhouette at the Peninsula Room in Traverse City"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-23.jpg" data-caption="John & Heather<a href='/blog/w_jhm/' target='_blank'>View Blog</a><br><small>Peninsula Room &bull; Traverse City, Michigan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-23sm.jpg" alt="Wedding couple silhouette at the Peninsula Room in Traverse City"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-24.jpg" data-caption="Jeremy & Michelle<a href='/blog/wedding-jmm/' target='_blank'>&nbsp;View Blog</a><br><small>Rio Grande River &bull; Del Rio, Texas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-24sm.jpg" alt="Bride and Groom by old rustic doors in Del Rio, Texas"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio5/wedding_5-24.jpg" data-caption="Jeremy & Michelle<a href='/blog/wedding-jmm/' target='_blank'>View Blog</a><br><small>Rio Grande River &bull; Del Rio, Texas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio5/wedding_5-24sm.jpg" alt="Bride and Groom by old rustic doors in Del Rio, Texas"></a>
 			</div>
 		</div>
 		

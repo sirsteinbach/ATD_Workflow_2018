@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="WG2";
 	$thisMenu="Gallery";
@@ -60,18 +59,18 @@
 			<!--PHOTONAV-->
 			<?php require("../_php/navPhoto.php");?>
 			
-		</section><!-- <a href='/blog/wedding-ths/' target='_blank'>&nbsp;View Blog</a> -->
+		</section><!-- <a href='/blog/wedding-ths/' target='_blank'>View Blog</a> -->
 		
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-01.jpg" data-caption="Samuel & Candice<a href='/blog/wedding-scg/' target='_blank'>&nbsp;View Blog</a><br><small>Cafe' Madison &bull; Riverside, New Jersey</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-01sm.jpg" alt="Kissing under a dramatic sky with the clock tower in the background"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-01.jpg" data-caption="Samuel & Candice<a href='/blog/wedding-scg/' target='_blank'>View Blog</a><br><small>Cafe' Madison &bull; Riverside, New Jersey</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-01sm.jpg" alt="Kissing under a dramatic sky with the clock tower in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-02.jpg" data-caption="Marc & Taya<a href='/blog/w_mtm/' target='_blank'>&nbsp;View Blog</a><br><small>Wallowa Lake &bull; Joseph, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-02sm.jpg" alt="Bride and Groom pose in the forest"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-02.jpg" data-caption="Marc & Taya<a href='/blog/w_mtm/' target='_blank'>View Blog</a><br><small>Wallowa Lake &bull; Joseph, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-02sm.jpg" alt="Bride and Groom pose in the forest"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-03.jpg" data-caption="Garrett & Janelle<a href='/blog/wedding-gjc/' target='_blank'>&nbsp;View Blog</a><br><small>Barn Anew B&B &bull; Mitchell, Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-03sm.jpg" alt="Wedding party walking in a line"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-03.jpg" data-caption="Garrett & Janelle<a href='/blog/wedding-gjc/' target='_blank'>View Blog</a><br><small>Barn Anew B&B &bull; Mitchell, Nebraska</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-03sm.jpg" alt="Wedding party walking in a line"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-04.jpg" data-caption="Joe & Margaret<br><small>Washington Square &bull; New Orleans, Louisiana</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-04sm.jpg" alt="Bride and Groom kiss in the French Quarter"></a>
@@ -80,7 +79,7 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-05.jpg" data-caption="Chad & Katrina<br><small>Blue Ribbon Cooking &bull; Seattle, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-05sm.jpg" alt="Bride sneaks a look before the ceremony"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-06.jpg" data-caption="Qi & Xiaohan<a href='/blog/wedding-qxz/' target='_blank'>&nbsp;View Blog</a><br><small>Thornewood Castle &bull; Lakewood, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-06sm.jpg" alt="Bride and Groom exchange rings at Thornewood Castle"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-06.jpg" data-caption="Qi & Xiaohan<a href='/blog/wedding-qxz/' target='_blank'>View Blog</a><br><small>Thornewood Castle &bull; Lakewood, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-06sm.jpg" alt="Bride and Groom exchange rings at Thornewood Castle"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-07.jpg" data-caption="Ian & Macy<br><small>Zeinth Vinyard &bull; Zena, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-07sm.jpg" alt="Bride and Groom kiss in the barrel room"></a>
@@ -92,13 +91,13 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-09.jpg" data-caption="Aaron & Jamie<br><small>Edmonton, Alberta</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-09sm.jpg" alt="Bride and Groom with the Edmonton skyline in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-10.jpg" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>&nbsp;View Blog</a><br><small>Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-10sm.jpg" alt="Bride and Groom beside a rustic GMC truck"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-10.jpg" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>View Blog</a><br><small>Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-10sm.jpg" alt="Bride and Groom beside a rustic GMC truck"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-11.jpg" data-caption="James & Candice<br><small>Dunedin, Florida</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-11sm.jpg" alt="Groom gets ready with father and grandfather"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-12.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville, Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-12sm.jpg" alt="Bride and Groom pose on Hawaii's black rocks"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-12.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>View Blog</a><br><small>Princeville, Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-12sm.jpg" alt="Bride and Groom pose on Hawaii's black rocks"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-13.jpg" data-caption="Alex & Ruthie<br><small>Laconner Flats &bull; Mt.Vernon, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-13sm.jpg" alt="Bride and Groom exit ceremony at Laconner Flats with bubbles"></a>
@@ -111,13 +110,13 @@
 			</a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-16.jpg" data-caption="Matt & Morgan<a href='/blog/wedding-mmk/' target='_blank'>&nbsp;View Blog</a><br><small>Frazier Farmstead &bull; Milton-Freewater, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-16sm.jpg" alt="Country wedding with beautiful Bride and cowboy Groom"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-16.jpg" data-caption="Matt & Morgan<a href='/blog/wedding-mmk/' target='_blank'>View Blog</a><br><small>Frazier Farmstead &bull; Milton-Freewater, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-16sm.jpg" alt="Country wedding with beautiful Bride and cowboy Groom"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-17.jpg" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>&nbsp;View Blog</a><br><small>Moore Mansion &bull; Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-17sm.jpg" alt="Beautiful wedding reception decorations in the sunset at Moore Mansion"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-17.jpg" data-caption="Jeffrey & Kelsey<a href='/blog/wedding-jkm/' target='_blank'>View Blog</a><br><small>Moore Mansion &bull; Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-17sm.jpg" alt="Beautiful wedding reception decorations in the sunset at Moore Mansion"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-18.jpg" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>&nbsp;View Blog</a><br><small>Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-18sm.jpg" alt="Bride and Groom kiss in the sunset"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-18.jpg" data-caption="Trevor & Jarita<a href='/blog/w_tjk/' target='_blank'>View Blog</a><br><small>Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-18sm.jpg" alt="Bride and Groom kiss in the sunset"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-19.jpg" data-caption="Hickory & Angie<br><small>Columbus, Ohio</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-19sm.jpg" alt="Groom in full military dress"></a>
@@ -126,7 +125,7 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-20.jpg" data-caption="Cameron & Sabrina<br><small>Rancho De La Fuente &bull; Lakeport, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-20sm.jpg" alt="Bride and Groom get sunset photo op at Rancho De La Fuente"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-21.jpg" data-caption="Meshan & Alicia<a href='/blog/wedding-mat/' target='_blank'>&nbsp;View Blog</a><br><small>The Legislative Building &bull; Regina, Saskatchewan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-21sm.jpg" alt="Eastern Indian wedding couple with darkening sky"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-21.jpg" data-caption="Meshan & Alicia<a href='/blog/wedding-mat/' target='_blank'>View Blog</a><br><small>The Legislative Building &bull; Regina, Saskatchewan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-21sm.jpg" alt="Eastern Indian wedding couple with darkening sky"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio2/wedding_2-22.jpg" data-caption="Alex & Kim<br><small>Kirkland, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio2/wedding_2-22sm.jpg" alt="Wedding rings on the Seattle Times"></a>

@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="EG2";
 	$thisMenu="Gallery";
@@ -66,76 +65,76 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany<a href='/blog/e_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="/_img/gallery/engagements2/eng2-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-01sm.jpg" alt="Couple kisses in the sunset above Regusci Vineyards"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany<a href='/blog/e_cbh/' target='_blank'>View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="../_img/gallery/engagements2/eng2-01.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-01sm.jpg" alt="Couple kisses in the sunset above Regusci Vineyards"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Kevin & Brandi<br><small>Lacey, Washington</small>" href="/_img/gallery/engagements2/eng2-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-02sm.jpg" alt="Engaged couple laughs in fall forest near Olympia"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Kevin & Brandi<br><small>Lacey, Washington</small>" href="../_img/gallery/engagements2/eng2-02.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-02sm.jpg" alt="Engaged couple laughs in fall forest near Olympia"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" href="/_img/gallery/engagements2/eng2-03.jpg" data-fancybox="group" data-caption="Danny & Joycelyn<a href='/blog/eng-djz/' target='_blank'>&nbsp;View Blog</a><br><small>Coronado Beach, California</small>"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-03sm.jpg" alt="Engaged couple display their save the date sign"></a>
+				<a class="fancybox" href="../_img/gallery/engagements2/eng2-03.jpg" data-fancybox="group" data-caption="Danny & Joycelyn<a href='/blog/eng-djz/' target='_blank'>View Blog</a><br><small>Coronado Beach, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-03sm.jpg" alt="Engaged couple display their save the date sign"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Steve & Amanda<br><small>Clearwater Beach, Florida</small>" href="/_img/gallery/engagements2/eng2-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-04sm.jpg" alt="Engaged couple lays on Clearwater Beach at dusk"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Steve & Amanda<br><small>Clearwater Beach, Florida</small>" href="../_img/gallery/engagements2/eng2-04.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-04sm.jpg" alt="Engaged couple lays on Clearwater Beach at dusk"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<a href='/blog/e_mlb/' target='_blank'>&nbsp;View Blog</a><br><small>Half Moon Bay, California</small>" href="/_img/gallery/engagements2/eng2-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-05sm.jpg" alt="Engaged couple kisses at Piegon Point Lighthouse"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Matt & Laura<a href='/blog/e_mlb/' target='_blank'>View Blog</a><br><small>Half Moon Bay, California</small>" href="../_img/gallery/engagements2/eng2-05.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-05sm.jpg" alt="Engaged couple kisses at Piegon Point Lighthouse"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jeff & Kristina<br><small>Plum Island, Massachusetts</small>" href="/_img/gallery/engagements2/eng2-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-06sm.jpg" alt="Engaged couple wear warm sweaters in bright colors"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jeff & Kristina<br><small>Plum Island, Massachusetts</small>" href="../_img/gallery/engagements2/eng2-06.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-06sm.jpg" alt="Engaged couple wear warm sweaters in bright colors"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany<a href='/blog/e_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="/_img/gallery/engagements2/eng2-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-07sm.jpg" alt="Engaged couple clostup at Regusci Vineyards"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Charlie & Brittany<a href='/blog/e_cbh/' target='_blank'>View Blog</a><br><small>Regusci Vineyards &bull; Napa, California</small>" href="../_img/gallery/engagements2/eng2-07.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-07sm.jpg" alt="Engaged couple clostup at Regusci Vineyards"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Nicholas & Jennifer<br><small>Darmstadt, Germany</small>" href="/_img/gallery/engagements2/eng2-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-08sm.jpg" alt="Engaged couple snuggle in their orange Lotus"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Nicholas & Jennifer<br><small>Darmstadt, Germany</small>" href="../_img/gallery/engagements2/eng2-08.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-08sm.jpg" alt="Engaged couple snuggle in their orange Lotus"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="James & Candice<br><small>Dunedin, Florida</small>" href="/_img/gallery/engagements2/eng2-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-09sm.jpg" alt="Beach glows white for engaged couple"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="James & Candice<br><small>Dunedin, Florida</small>" href="../_img/gallery/engagements2/eng2-09.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-09sm.jpg" alt="Beach glows white for engaged couple"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Chris & Michelle<a href='/blog/e_cmp/' target='_blank'>&nbsp;View Blog</a><br><small>Fishermans Warf &bull; Monterey, California</small>" href="/_img/gallery/engagements2/eng2-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-10sm.jpg" alt="Engaged military couple kiss on Monterey Warf"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Chris & Michelle<a href='/blog/e_cmp/' target='_blank'>View Blog</a><br><small>Fishermans Warf &bull; Monterey, California</small>" href="../_img/gallery/engagements2/eng2-10.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-10sm.jpg" alt="Engaged military couple kiss on Monterey Warf"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/e_gst/' target='_blank'>&nbsp;View Blog</a><br><small>Newport Beach, California</small>" href="/_img/gallery/engagements2/eng2-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-11sm.jpg" alt="Engaged couple on tile steps in Newport Beach"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/e_gst/' target='_blank'>View Blog</a><br><small>Newport Beach, California</small>" href="../_img/gallery/engagements2/eng2-11.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-11sm.jpg" alt="Engaged couple on tile steps in Newport Beach"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Andrew & Kel<br><small>Naples, Florida</small>" href="/_img/gallery/engagements2/eng2-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-12sm.jpg" alt="Engaged couple behind palm trees in Naples"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Andrew & Kel<br><small>Naples, Florida</small>" href="../_img/gallery/engagements2/eng2-12.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-12sm.jpg" alt="Engaged couple behind palm trees in Naples"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Michael & Devon<a href='/blog/eng-mds/' target='_blank'>&nbsp;View Blog</a><br><small>Olympia, Washington</small>" href="/_img/gallery/engagements2/eng2-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-13sm.jpg" alt="Engaged couple poses on Olympia waterfront"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Michael & Devon<a href='/blog/eng-mds/' target='_blank'>View Blog</a><br><small>Olympia, Washington</small>" href="../_img/gallery/engagements2/eng2-13.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-13sm.jpg" alt="Engaged couple poses on Olympia waterfront"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jacob & Nichole<br><small>Alki Beach &bull; Seattle, Washington</small>" href="/_img/gallery/engagements2/eng2-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-14sm.jpg" alt="Engaged couple kiss with Seattle skyline in background"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jacob & Nichole<br><small>Alki Beach &bull; Seattle, Washington</small>" href="../_img/gallery/engagements2/eng2-14.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-14sm.jpg" alt="Engaged couple kiss with Seattle skyline in background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Chad & Jessica<br><small>Dana Point, California</small>" href="/_img/gallery/engagements2/eng2-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-15sm.jpg" alt="Engaged couple hold hands with beach in the back"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Chad & Jessica<br><small>Dana Point, California</small>" href="../_img/gallery/engagements2/eng2-15.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-15sm.jpg" alt="Engaged couple hold hands with beach in the back"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Jeffrey & Angela<br><small>Islamorada, Florida</small>" href="/_img/gallery/engagements2/eng2-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-16sm.jpg" alt="Couple snuggles beside an old boat and a palm tree"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Jeffrey & Angela<br><small>Islamorada, Florida</small>" href="../_img/gallery/engagements2/eng2-16.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-16sm.jpg" alt="Couple snuggles beside an old boat and a palm tree"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Joe & Kelsie<br><small>Phoenix, Arizona</small>" href="/_img/gallery/engagements2/eng2-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-17sm.jpg" alt="Engaged couple kiss under fierce Phoenix sky"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Joe & Kelsie<br><small>Phoenix, Arizona</small>" href="../_img/gallery/engagements2/eng2-17.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-17sm.jpg" alt="Engaged couple kiss under fierce Phoenix sky"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Marko & Victoria<br><small>Kamloops, British Columbia</small>" href="/_img/gallery/engagements2/eng2-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-18sm.jpg" alt="Engaged couple pose along the Thompson River"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Marko & Victoria<br><small>Kamloops, British Columbia</small>" href="../_img/gallery/engagements2/eng2-18.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-18sm.jpg" alt="Engaged couple pose along the Thompson River"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Stephen & Sonia<br><small>Santorini, Greece</small>" href="/_img/gallery/engagements2/eng2-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-19sm.jpg" alt="We got ourselves in a photo in Santorini"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Stephen & Sonia<br><small>Santorini, Greece</small>" href="../_img/gallery/engagements2/eng2-19.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-19sm.jpg" alt="We got ourselves in a photo in Santorini"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Greg & Sarah<br><small>Portland, Oregon</small>" href="/_img/gallery/engagements2/eng2-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-20sm.jpg" alt="Engaged couple laughs on lawn in downtown Portland"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Greg & Sarah<br><small>Portland, Oregon</small>" href="../_img/gallery/engagements2/eng2-20.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-20sm.jpg" alt="Engaged couple laughs on lawn in downtown Portland"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Michael & Devon<a href='/blog/eng-mds/' target='_blank'>&nbsp;View Blog</a><br><small>Olympia, Washington</small>" href="/_img/gallery/engagements2/eng2-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-21sm.jpg" alt="Engaged couple gets close at Priest Point Park"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Michael & Devon<a href='/blog/eng-mds/' target='_blank'>View Blog</a><br><small>Olympia, Washington</small>" href="../_img/gallery/engagements2/eng2-21.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-21sm.jpg" alt="Engaged couple gets close at Priest Point Park"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Tony & Anh-Thu<br><small>Santorini, Greece</small>" href="/_img/gallery/engagements2/eng2-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-22sm.jpg" alt="Couple poses with Oia in the background"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Tony & Anh-Thu<br><small>Santorini, Greece</small>" href="../_img/gallery/engagements2/eng2-22.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-22sm.jpg" alt="Couple poses with Oia in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Evan & Sierra<a href='/blog/eng-esr/' target='_blank'>&nbsp;View Blog</a><br><small>Frisco, Texas</small>" href="/_img/gallery/engagements2/eng2-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-23sm.jpg" alt="Engaged couple poses under Texas sunset"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Evan & Sierra<a href='/blog/eng-esr/' target='_blank'>View Blog</a><br><small>Frisco, Texas</small>" href="../_img/gallery/engagements2/eng2-23.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-23sm.jpg" alt="Engaged couple poses under Texas sunset"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/e_gst/' target='_blank'>&nbsp;View Blog</a><br><small>Newport Beach, California</small>" href="/_img/gallery/engagements2/eng2-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="/_img/gallery/engagements2/eng2-24sm.jpg" alt="Engaged couple sits on beach wall in Newport Beach"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="Gary & Shirley<a href='/blog/e_gst/' target='_blank'>View Blog</a><br><small>Newport Beach, California</small>" href="../_img/gallery/engagements2/eng2-24.jpg"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/engagements2/eng2-24sm.jpg" alt="Engaged couple sits on beach wall in Newport Beach"></a>
 			</div>
 		</div>
 		

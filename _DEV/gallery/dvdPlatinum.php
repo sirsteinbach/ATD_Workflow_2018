@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="DVDp";
 	$thisMenu="Gallery";

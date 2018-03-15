@@ -469,7 +469,7 @@ html {
 body {
   padding: 0;
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -584,7 +584,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   color: inherit;
@@ -5775,17 +5775,16 @@ html.is-reveal-open body {
 body {
   margin: 0px;
   height: auto;
-  font-family: Arial,sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 16px;
-  background: #333 url("../../_img/universal/bgBody_dk.gif") repeat center top;
 }
 
 /*Background No Longer Visible*/
 
-@media screen and (max-width:75em) {
-  .noNeedBg {
-    display: none !important;
+@media screen and (min-width: 1200px) {
+  body {
+    background: #333 url("../../_img/universal/bgBody_dk.gif") repeat center top;
   }
 }
 
@@ -5957,7 +5956,7 @@ blockquote {
   margin: 0;
 }
 
-@media only screen and (min-width: 40em) {
+@media only screen and (min-width: 640px) {
   #SinglePost div.post-content .theContent p:first-child,
   div.post-content .theContent p:first-child {
     padding-left: 2em;
@@ -6428,32 +6427,6 @@ blockquote {
 
 .iLinePOS-r {
   margin: -6px -6px -4px 6px;
-}
-
-/*Input-Group*/
-
-.ig-25 {
-  width: 25%;
-}
-
-.ig-33 {
-  width: 33.3%;
-}
-
-.ig-50 {
-  width: 50%;
-}
-
-.ig-66 {
-  width: 66.6%;
-}
-
-.ig-75 {
-  width: 75%;
-}
-
-.suckup {
-  margin: -1rem 0 1rem;
 }
 
 /* MY COLORS (Keep here at the end of CSS page) */

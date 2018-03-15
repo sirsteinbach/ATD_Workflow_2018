@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="WG4";
 	$thisMenu="Gallery";
@@ -60,12 +59,12 @@
 			<!--PHOTONAV-->
 			<?php require("../_php/navPhoto.php");?>
 			
-		</section>
+		</section><!-- <a href='/blog/wedding-jas/' target='_blank'>View Blog</a>  ->
 		
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-01.jpg" data-caption="Justin & Cara<a href='/blog/wedding-jce/' target='_blank'>&nbsp;View Blog</a><br><small>Merritt, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-01sm.jpg" alt="Wedding couple sits on an old junkyard car"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-01.jpg" data-caption="Justin & Cara<a href='/blog/wedding-jce/' target='_blank'>View Blog</a><br><small>Merritt, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-01sm.jpg" alt="Wedding couple sits on an old junkyard car"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-02.jpg" data-caption="Jeff & Kristina<br><small>Jeff & Kristina</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-02sm.jpg" alt="Bride and Groom stand at the doors of Blessed Sacrament in Seattle"></a>
@@ -77,13 +76,13 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-04.jpg" data-caption="Jacob & Nichole<br><small>Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-04sm.jpg" alt="Bride and Groom pose with Red Mustang"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-05.jpg" data-caption="Ben & Kari<br><small>Aspen Meadow Church &bull; Colton, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-05sm.jpg" alt="Bride and Groom outstanding in their field"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-05.jpg" data-caption="Justin & Kim<a href='/blog/wedding-jkc/' target='_blank'>View Blog</a><br><small>Railroad Crossing &bull; Minturn, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-05sm.jpg" alt="Bride and Groom pose along the railroad tracks in Minturn Colorado"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-06.jpg" data-caption="Keith & Kimberly<br><small>The Beach House, Koloa, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-06sm.jpg" alt="Wedding ceremony with surfers in the background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-07.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Thompson Park &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-07sm.jpg" alt="Bride and Groom pose under yellow trees"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-07.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>View Blog</a><br><small>Thompson Park &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-07sm.jpg" alt="Bride and Groom pose under yellow trees"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-08.jpg" data-caption="Tupac & Ayiana<br><small>Indian Wells Country Club &bull; Palm Desert, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-08sm.jpg" alt="Great wedding party photo at ndian Wells Country Club "></a>
@@ -92,16 +91,16 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-09.jpg" data-caption="Cody & Kelly<br><small>Apple Tree Lane B&B &bull; Waupaca, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-09sm.jpg" alt="Sassy blonde Bride holds out her red roses"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-10.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-10sm.jpg" alt="Barefoot Bride and Groom on the black rocks of Hawaii"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-10.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>View Blog</a><br><small>Princeville, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-10sm.jpg" alt="Barefoot Bride and Groom on the black rocks of Hawaii"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-11.jpg" data-caption="James & Malorie<a href='/blog/wedding-jma/' target='_blank'>&nbsp;View Blog</a><br><small>Mogollon Rim, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-11sm.jpg" alt="Firery sunset wedding portrait at Mogollon Rim"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-11.jpg" data-caption="Jason & Allison<a href='/blog/wedding-jas/' target='_blank'>View Blog</a><br><small>Thunder Island &bull; Cascade Locks, Oregon</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-11sm.jpg" alt="Wedding couple with Bridge of the Gods in background"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-12.jpg" data-caption="Jon & Oriana<a href='/blog/wedding-jon/' target='_blank'>&nbsp;View Blog</a><br><small>Hornblower Garden &bull; Plymouth, Massachusetts</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-12sm.jpg" alt="30s theme wedding couple look at each other"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-12.jpg" data-caption="Jon & Oriana<a href='/blog/wedding-jon/' target='_blank'>View Blog</a><br><small>Hornblower Garden &bull; Plymouth, Massachusetts</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-12sm.jpg" alt="30s theme wedding couple look at each other"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-13.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>&nbsp;View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-13sm.jpg" alt="Bearded Groom finishes tying his shoes"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-13.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-13sm.jpg" alt="Bearded Groom finishes tying his shoes"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-14.jpg" data-caption="Tristen & Jennifer<br><small>Kalama, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-14sm.jpg" alt="Bride becomes emotional walking in with her father"></a>
@@ -122,19 +121,19 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-19.jpg" data-caption="Mike & Casey<br><small>Rancho Palos Verdes, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-19sm.jpg" alt="Bride and Groom kiss behind a short brick wall over looking the ocean"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-20.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood Resort &bull; Lake Tahoe, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-20sm.jpg" alt="Bride and groom kiss on the beach of Lake Tahoe"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-20.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>View Blog</a><br><small>Edgewood Resort &bull; Lake Tahoe, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-20sm.jpg" alt="Bride and groom kiss on the beach of Lake Tahoe"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-21.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-21sm.jpg" alt="Bride and Groom lit by the sun in the forest"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-21.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>View Blog</a><br><small>Lake Siskiyou &bull; Mt. Shasta, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-21sm.jpg" alt="Bride and Groom lit by the sun in the forest"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-22.jpg" data-caption="Jacob & Nichole<br><small>Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-22sm.jpg" alt="Bride laughs hysterically at the best man toast"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-23.jpg" data-caption="Tyler & Kaelynn<a href='/blog/w_tkc/' target='_blank'>&nbsp;View Blog</a><br><small>Chateau Rive &bull; Spokane, WA</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-23sm.jpg" alt="Groom and groomsmen stand for a photo at Chateau Rive"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-23.jpg" data-caption="Tyler & Kaelynn<a href='/blog/w_tkc/' target='_blank'>View Blog</a><br><small>Chateau Rive &bull; Spokane, WA</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-23sm.jpg" alt="Groom and groomsmen stand for a photo at Chateau Rive"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-24.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>&nbsp;View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-24sm.jpg" alt="Georgous wedding couple posing by the beach in Playa del Carmen"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/portfolio4/wedding_4-24.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/portfolio4/wedding_4-24sm.jpg" alt="Georgous wedding couple posing by the beach in Playa del Carmen"></a>
 			</div>
 		</div>
 		

@@ -19,25 +19,25 @@ $PCPamt=600;
 
 //REGION ADD
 $_SESSION['Region']=$_GET['Region'];
-setcookie('Region',$_GET['Region'],$expire,'/',$domain);
-if($_GET['Region']=='NW'){$regionAdd=0;$PD=200;$_SESSION['RegionName']='the Northwest';}
-if($_GET['Region']=='CW'){$regionAdd=100;$PD=200;$_SESSION['RegionName']='Western Canada';}
-if($_GET['Region']=='CE'){$regionAdd=100;$PD=200;$_SESSION['RegionName']='Eastern Canada';}
-if($_GET['Region']=='SW'){$regionAdd=300;$PD=200;$_SESSION['RegionName']='the Southwest';}
-if($_GET['Region']=='MW'){$regionAdd=500;$PD=300;$_SESSION['RegionName']='the Midwest';}
-if($_GET['Region']=='CA'){$regionAdd=500;$PD=400;$_SESSION['RegionName']='Central America';}
-if($_GET['Region']=='NE'){$regionAdd=600;$PD=400;$_SESSION['RegionName']='the Northeast';}
-if($_GET['Region']=='SE'){$regionAdd=600;$PD=400;$_SESSION['RegionName']='the Southeast';}
-if($_GET['Region']=='HI'){$regionAdd=600;$PD=400;$_SESSION['RegionName']='Hawaii';}
-if($_GET['Region']=='AK'){$regionAdd=600;$PD=400;$_SESSION['RegionName']='Alaska';}
-if($_GET['Region']=='EU'){$regionAdd=800;$PD=300;$_SESSION['RegionName']='Europe';}
-if($_GET['Region']=='AU'){$regionAdd=1000;$PD=300;$_SESSION['RegionName']='Australia';}
-if($_GET['Region']=='SA'){$regionAdd=1000;$PD=400;$_SESSION['RegionName']='South America';}
-if($_GET['Region']=='AS'){$regionAdd=1200;$PD=400;$_SESSION['RegionName']='Asia';}
-if($_GET['Region']=='AF'){$regionAdd=1500;$PD=400;$_SESSION['RegionName']='Africa';}
+setcookie("Region",$_GET['Region'],$expire,"/",".abouttheday.com");
+if($_GET['Region']=="NW"){$regionAdd=0;$PD=200;$_SESSION['RegionName']="the Northwest";}
+if($_GET['Region']=="CW"){$regionAdd=100;$PD=200;$_SESSION['RegionName']="Western Canada";}
+if($_GET['Region']=="CE"){$regionAdd=100;$PD=200;$_SESSION['RegionName']="Eastern Canada";}
+if($_GET['Region']=="SW"){$regionAdd=300;$PD=200;$_SESSION['RegionName']="the Southwest";}
+if($_GET['Region']=="MW"){$regionAdd=500;$PD=300;$_SESSION['RegionName']="the Midwest";}
+if($_GET['Region']=="CA"){$regionAdd=500;$PD=400;$_SESSION['RegionName']="Central America";}
+if($_GET['Region']=="NE"){$regionAdd=600;$PD=400;$_SESSION['RegionName']="the Northeast";}
+if($_GET['Region']=="SE"){$regionAdd=600;$PD=400;$_SESSION['RegionName']="the Southeast";}
+if($_GET['Region']=="HI"){$regionAdd=600;$PD=400;$_SESSION['RegionName']="Hawaii";}
+if($_GET['Region']=="AK"){$regionAdd=600;$PD=400;$_SESSION['RegionName']="Alaska";}
+if($_GET['Region']=="EU"){$regionAdd=800;$PD=300;$_SESSION['RegionName']="Europe";}
+if($_GET['Region']=="AU"){$regionAdd=1000;$PD=300;$_SESSION['RegionName']="Australia";}
+if($_GET['Region']=="SA"){$regionAdd=1000;$PD=400;$_SESSION['RegionName']="South America";}
+if($_GET['Region']=="AS"){$regionAdd=1200;$PD=400;$_SESSION['RegionName']="Asia";}
+if($_GET['Region']=="AF"){$regionAdd=1500;$PD=400;$_SESSION['RegionName']="Africa";}
 
 //DISCOUNTS
-if ($Promo=='XYZ'){$Discount=100;}else{$Discount=0;}
+if ($Promo=="XYZ"){$Discount=100;}else{$Discount=0;}
 
 //CALCULATIONS
 $ppPrice=($pBase+$regionAdd)-$Discount;
@@ -82,33 +82,33 @@ $WCedit="We film the ceremony and afterwards we edit your video for you.";
 $FCdiy="Do-It-Yourself. We film the all the important parts of the day (during our photography hours), including the ceremony. Afterwards we hand over the footage directly to you.";
 $FCedit="We film the all the important parts of the day (during our photography hours), including the ceremony. Afterwards we edit the video for you.";
 ?> <?php
-if(isset($_GET['Format']) && ($_GET['Format']=='V')){
-	$formatName='Videography';
-	$_SESSION['Format']='V';
+if(isset($_GET['Format']) && ($_GET['Format']=="V")){
+	$formatName="Videography";
+	$_SESSION['Format']="V";
 	$pPrice=$pvPrice;
 	$gPrice=$gvPrice;
 	$sPrice=$svPrice;
 	$bPrice=$bvPrice;
-	$pageName='VideoPrices';
-	setcookie('Format','V',$expire,'/',$domain);
+	$pageName="VideoPrices";
+	setcookie("Format","V",$expire,"/",".abouttheday.com");
 	}
-elseif(isset($_GET['Format']) && ($_GET['Format']=='B')){
-	$formatName='Photo & Video';
-	$_SESSION['Format']='B';
+elseif(isset($_GET['Format']) && ($_GET['Format']=="B")){
+	$formatName="Photo & Video";
+	$_SESSION['Format']="B";
 	$pPrice=$pbPrice;
 	$gPrice=$gbPrice;
 	$sPrice=$sbPrice;
 	$bPrice=$bbPrice;
-	$pageName='BothPrices';
-	setcookie('Format','B',$expire,'/',$domain);
+	$pageName="BothPrices";
+	setcookie("Format","B",$expire,"/",".abouttheday.com");
 	}
-else {//if(isset($_GET['Format']) && ($_GET['Format']=='P'))
-	$formatName='Photography';
-	$_SESSION['Format']='P';
+else {
+	$formatName="Photography";
+	$_SESSION['Format']="P";
 	$pPrice=$ppPrice;
 	$gPrice=$gpPrice;
 	$sPrice=$spPrice;
 	$bPrice=$bpPrice;
-	setcookie('Format','P',$expire,'/',$domain);
+	setcookie("Format","P",$expire,"/",".abouttheday.com");
 	}
 ?>

@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="Familes";
 	$thisMenu="Gallery";
@@ -68,7 +67,7 @@
 				<a class="fancybox" data-fancybox="group" data-caption="The Akehurst Family<br><small>Estero, Florida</small>" href="../_img/gallery/families/family-01.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/families/family-01sm.jpg" alt="The Akeurst family stands along a road at the Koreshan State Historic Site in Estero, Florida"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" data-caption="The Bride & Groom Families<a href='/blog/wedding-jkk/' target='_blank'>&nbsp;View Blog</a><br><small>University Place, Washington</small>" href="../_img/gallery/families/family-02.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/families/family-02sm.jpg" alt="The Bride and Grooms and their parents all pose together"></a>
+				<a class="fancybox" data-fancybox="group" data-caption="The Bride & Groom Families<a href='/blog/wedding-jkk/' target='_blank'>View Blog</a><br><small>University Place, Washington</small>" href="../_img/gallery/families/family-02.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/families/family-02sm.jpg" alt="The Bride and Grooms and their parents all pose together"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" data-caption="Max<br><small>Stateline, Nevada</small>" href="../_img/gallery/families/family-03.jpg"><img class="thumbnail" nopin="nopin" src="../_img/gallery/families/family-03sm.jpg" alt="Katelin pose beside a tree for senior photos in Lacey, Washington"></a>

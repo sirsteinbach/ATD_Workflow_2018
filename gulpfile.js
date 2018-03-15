@@ -84,11 +84,7 @@ gulp.task('php', function(){
 });
 
 gulp.task('connect',function() {
-  connect.server({
-    port:8888,
-    root:'_DEV',
-    livereload: true
-  });
+  connect.server({port:8888,root:'_DEV',livereload:true});
 });
 
 gulp.task('img',function(){

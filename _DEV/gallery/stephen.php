@@ -1,7 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
 	session_start();
-	date_default_timezone_set("America/Los_Angeles");
 	$expire=time()+60*60*24*60;
 	$thisPage="SEF";
 	$thisMenu="Gallery";
@@ -64,7 +63,7 @@
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-01.jpg" data-caption="Jason & Chelsie<a href='/blog/w_jct/' target='_blank'>&nbsp;View Blog</a><br><small>David Arthur Vineyards &bull; St. Helena, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-01sm.jpg" alt="Bride and Groom kiss overlooking David Arthur Vineyards"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-01.jpg" data-caption="Jason & Chelsie<a href='/blog/w_jct/' target='_blank'>View Blog</a><br><small>David Arthur Vineyards &bull; St. Helena, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-01sm.jpg" alt="Bride and Groom kiss overlooking David Arthur Vineyards"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-02.jpg" data-caption="Red Storm of the Century<br><small>Sydney Harbor Bridge &bull; Australia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-02sm.jpg" alt="Sydney bridge fades into red sand storm"></a>
@@ -73,22 +72,22 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-03.jpg" data-caption="Daniel & Amy<br><small>San Diego Wild Animal Park &bull; California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-03sm.jpg" alt="Bride and Groom kiss beneath an ominous sky"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-04.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>&nbsp;View Blog</a><br><small>Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-04sm.jpg" alt="Cannot wait to eat these cupcakes"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-04.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>View Blog</a><br><small>Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-04sm.jpg" alt="Cannot wait to eat these cupcakes"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-05.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>&nbsp;View Blog</a><br><small>Blueberry Hill Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-05sm.jpg" alt="Wedding tent lights up at the Blueberry Hill Inn"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-05.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>View Blog</a><br><small>Blueberry Hill Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-05sm.jpg" alt="Wedding tent lights up at the Blueberry Hill Inn"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-06.jpg" data-caption="Cody & Kelly<br><small>Apple Tree Lane B&B &bull; Waupaca, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-06sm.jpg" alt="Blonde Bride shows her flowers"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-07.jpg" data-caption="Jason & Chelsie<a href='/blog/e_jct/' target='_blank'>&nbsp;View Blog</a><br><small>Santa Rosa, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-07sm.jpg" alt="Lovely couple sits for a photo in a vineyard"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-07.jpg" data-caption="Jason & Chelsie<a href='/blog/e_jct/' target='_blank'>View Blog</a><br><small>Santa Rosa, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-07sm.jpg" alt="Lovely couple sits for a photo in a vineyard"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-08.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood &bull; Stateline, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-08sm.jpg" alt="Kissing in the pine trees near Lake Tahoe"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-08.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>View Blog</a><br><small>Edgewood &bull; Stateline, Nevada</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-08sm.jpg" alt="Kissing in the pine trees near Lake Tahoe"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-09.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-09sm.jpg" alt="Bride and groom stand on black rocks of Kawaii"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-09.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>View Blog</a><br><small>Princeville, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-09sm.jpg" alt="Bride and groom stand on black rocks of Kawaii"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-10.jpg" data-caption="Brandon & Katie<br><small>Washington Bulb Company &bull; Mt. Vernon, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-10sm.jpg" alt="Kissing in endless pink tulips"></a>
@@ -100,7 +99,7 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-12.jpg" data-caption="Rebecca<br><small>Cancer Cure Car &bull; Olympia, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-12sm.jpg" alt="Cancer survivor poses next to her signed car"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-13.jpg" data-caption="Joshua & Katie<a href='/blog/wedding-jkk/' target='_blank'>&nbsp;View Blog</a><br><small>University Place, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-13sm.jpg" alt="Spectacular sunset for bride and groom"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-13.jpg" data-caption="Joshua & Katie<a href='/blog/wedding-jkk/' target='_blank'>View Blog</a><br><small>University Place, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-13sm.jpg" alt="Spectacular sunset for bride and groom"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-14.jpg" data-caption="Andrew & Jessica<br><small>JM Cellars &bull; Woodenville, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-14sm.jpg" alt="Bride and Groom kiss in the barrel room of JM Cellars"></a>
@@ -115,13 +114,13 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-17.jpg" data-caption="Cody & Kelly<br><small>Apple Tree Lane B&B &bull; Waupaca, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-17sm.jpg" alt="Bride catches Groom having too much fun"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-18.jpg" data-caption="Jennifer & Mackenzie<a href='/blog/m_mj/' target='_blank'>&nbsp;View Blog</a><br><small>The Hoodoo's &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-18sm.jpg" alt="Two beautiful girls pose dramaticaly in the dying light"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-18.jpg" data-caption="Jennifer & Mackenzie<a href='/blog/m_mj/' target='_blank'>View Blog</a><br><small>The Hoodoo's &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-18sm.jpg" alt="Two beautiful girls pose dramaticaly in the dying light"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-19.jpg" data-caption="Jer&ocirc;me & Dorthe&eacute;<br><small>Ch&acirc;teau Ferme Profondval, Belgium</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-19sm.jpg" alt="Bride and Groom have their first dance"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-20.jpg" data-caption="Jeremy & Michelle<a href='/blog/wedding-jmm/' target='_blank'>&nbsp;View Blog</a><br><small>Del Rio, Texas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-20sm.jpg" alt="Wedding couple kisses on the banks of Rio Grande under a blazing sunset"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-20.jpg" data-caption="Jeremy & Michelle<a href='/blog/wedding-jmm/' target='_blank'>View Blog</a><br><small>Del Rio, Texas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-20sm.jpg" alt="Wedding couple kisses on the banks of Rio Grande under a blazing sunset"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-21.jpg" data-caption="Joe & Margaret<br><small>Washington Square &bull; New Orleans, Louisiana</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-21sm.jpg" alt="Bride and Groom kiss beneath long flowing veil"></a>
@@ -133,7 +132,7 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-23.jpg" data-caption="On The Job<br><small>Snoqualmie Ridge Golf Club &bull; Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-23sm.jpg" alt="About The Day is on the job with photo and video"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-24.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>&nbsp;View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-24sm.jpg" alt="Bride and Groom with Red Rock Park in the background"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/stephen/ses-24.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/stephen/ses-24sm.jpg" alt="Bride and Groom with Red Rock Park in the background"></a>
 			</div>
 		</div>
 		

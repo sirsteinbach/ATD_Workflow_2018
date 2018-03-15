@@ -1,7 +1,6 @@
 <?php
 session_set_cookie_params(0,"/",".abouttheday.com");
 session_start();
-date_default_timezone_set("America/Los_Angeles");
 $expire=time()+60*60*24*60;
 $thisPage="Details";
 $thisMenu="Gallery";
@@ -66,13 +65,13 @@ require("../_php/checkpoints.php");
 		<!--GALLERY-->
 		<div class="row small-up-2 medium-up-3 large-up-6 BgMain">
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-01.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>&nbsp;View Blog</a><br><small>Mt. Shasta, Californa</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-01sm.jpg" alt="Groom shows his new tattoo of wife's name"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-01.jpg" data-caption="Tommy & Felicia<a href='/blog/wedding-tff/' target='_blank'>View Blog</a><br><small>Mt. Shasta, Californa</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-01sm.jpg" alt="Groom shows his new tattoo of wife's name"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-02.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>&nbsp;View Blog</a><br><small>Blueberry Hill Inn &bull;Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-02sm.jpg" alt="Wedding at Blueberry Hill Inn in Goshen, Vermont"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-02.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>View Blog</a><br><small>Blueberry Hill Inn &bull;Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-02sm.jpg" alt="Wedding at Blueberry Hill Inn in Goshen, Vermont"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-03.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Victory Memorial Church &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-03sm.jpg" alt="Brides dress hangs on the church doors"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-03.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>View Blog</a><br><small>Victory Memorial Church &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-03sm.jpg" alt="Brides dress hangs on the church doors"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-04.jpg" data-caption="Chris & Jacy<br><small>Port Orchard, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-04sm.jpg" alt="Brides lovely boquet held in front of her"></a>
@@ -81,16 +80,16 @@ require("../_php/checkpoints.php");
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-05.jpg" data-caption="Jeffrey & Kristin<br><small>Edgemont, Arkansas</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-05sm.jpg" alt="Sliced steak for the wedding feast"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-06.jpg" data-caption="Charlie & Brittany<a href='/blog/w_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Charles Krug Winery &bull; Calistoga, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-06sm.jpg" alt="Grooms yellow flowers"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-06.jpg" data-caption="Charlie & Brittany<a href='/blog/w_cbh/' target='_blank'>View Blog</a><br><small>Charles Krug Winery &bull; Calistoga, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-06sm.jpg" alt="Grooms yellow flowers"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-07.jpg" data-caption="Jeremy & Shabnam<br><small>Park Hyatt &bull; Dubai, UAE</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-07sm.jpg" alt="Henna hands in Dubai"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-08.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>&nbsp;View Blog</a><br><small>Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-08sm.jpg" alt="Cannot wait to eat these cupcakes"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-08.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>View Blog</a><br><small>Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-08sm.jpg" alt="Cannot wait to eat these cupcakes"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-09.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>&nbsp;View Blog</a><br><small>Victory Memorial Church &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-09sm.jpg" alt="Brides dress and lovely yellow flowers"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-09.jpg" data-caption="Josh & Breanna<a href='/blog/w_jbe/' target='_blank'>View Blog</a><br><small>Victory Memorial Church &bull; Guymon, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-09sm.jpg" alt="Brides dress and lovely yellow flowers"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-10.jpg" data-caption="Kevin & Brandi<br><small>Rock Creek Gardens &bull; Puyallup, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-10sm.jpg" alt="Follow the sign to the wedding ceremony"></a>
@@ -105,7 +104,7 @@ require("../_php/checkpoints.php");
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-13.jpg" data-caption="Cody & Kelly<br><small>Apple Tree Lane B&B &bull; Waupaca, Wisconsin</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-13sm.jpg" alt="Bride signs license with red roses in the foreground"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-14.jpg" data-caption="Charlie & Brittany<a href='/blog/w_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Charles Krug Winery &bull; Calistoga, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-14sm.jpg" alt="Spring colored bridal boquets"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-14.jpg" data-caption="Charlie & Brittany<a href='/blog/w_cbh/' target='_blank'>View Blog</a><br><small>Charles Krug Winery &bull; Calistoga, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-14sm.jpg" alt="Spring colored bridal boquets"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-15.jpg" data-caption="Manuel & Kari<br><small>Countryside, Illinois</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-15sm.jpg" alt="Love spelled with scrabble and a diamond ring"></a>
@@ -117,7 +116,7 @@ require("../_php/checkpoints.php");
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-17.jpg" data-caption="Alex & Kim<br><small>Kirkland, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-17sm.jpg" alt="Wedding rings on the Seattle Times"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-18.jpg" data-caption="Rajeev & Neha<a href='/blog/w_rnc/' target='_blank'>&nbsp;View Blog</a><br><small>Snoqualmie Ridge &bull; North Bend, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-18sm.jpg" alt="Lovely henna hands"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-18.jpg" data-caption="Rajeev & Neha<a href='/blog/w_rnc/' target='_blank'>View Blog</a><br><small>Snoqualmie Ridge &bull; North Bend, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-18sm.jpg" alt="Lovely henna hands"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/details/details-19.jpg" data-caption="Chad & Jessica<br><small>Redlands, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/details/details-19sm.jpg" alt="Red roses in front of a black and white wedding dress"></a>

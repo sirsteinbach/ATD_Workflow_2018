@@ -1,6 +1,6 @@
 <?php
 	session_set_cookie_params(0,"/",".abouttheday.com");
-	session_start();date_default_timezone_set("America/Los_Angeles");
+	session_start();
 	$expire=time()+60*60*24*60;
 	$thisPage="Candids";
 	$thisMenu="Gallery";
@@ -68,13 +68,13 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-01.jpg" data-caption="Joe & Margaret<br><small>French Quarter &bull; New Orleans, Louisiana</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-01sm.jpg" alt="Bride and Groom kiss beneath long flowing veil"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-02.jpg" data-caption="Charlie & Brittany<a href='/blog/w_cbh/' target='_blank'>&nbsp;View Blog</a><br><small>Charles Krug Winery &bull; Calistoga, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-02sm.jpg" alt="Bride and her twin sister are laughing"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-02.jpg" data-caption="Charlie & Brittany<a href='/blog/w_cbh/' target='_blank'>View Blog</a><br><small>Charles Krug Winery &bull; Calistoga, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-02sm.jpg" alt="Bride and her twin sister are laughing"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-03.jpg" data-caption="Jacob & Nichole<br><small>Pasco, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-03sm.jpg" alt="Bride laughs hysterically at the best man toast"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-04.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>&nbsp;View Blog</a><br><small>Edgewood &bull; South Lake Tahoe, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-04sm.jpg" alt="Bride and groom kiss on the beach of Lake Tahoe"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-04.jpg" data-caption="Derek & Christina<a href='/blog/w_dcc/' target='_blank'>View Blog</a><br><small>Edgewood &bull; South Lake Tahoe, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-04sm.jpg" alt="Bride and groom kiss on the beach of Lake Tahoe"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-05.jpg" data-caption="Adrian & Donna<br><small>Hyatt Place &bull; San Jose, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-05sm.jpg" alt="Bride and Bridesmaid snap a selfie"></a>
@@ -89,10 +89,10 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-08.jpg" data-caption="Justin & Emilia<br><small>Crown Paradise &bull; Cancun, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-08sm.jpg" alt="Bride cries while dancing with her father"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-09.jpg" data-caption="Andrew & Rikki<a href='/blog/wedding-arg/' target='_blank'>&nbsp;View Blog</a><br><small>Double JJ Resort &bull; New Era, Michigan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-09sm.jpg" alt="A big thank you from the Bride and Groom"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-09.jpg" data-caption="Andrew & Rikki<a href='/blog/wedding-arg/' target='_blank'>View Blog</a><br><small>Double JJ Resort &bull; New Era, Michigan</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-09sm.jpg" alt="A big thank you from the Bride and Groom"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-10.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>&nbsp;View Blog</a><br><small>Blueberry Hills Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-10sm.jpg" alt="Bride and Groom in the golden rays of sunset"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-10.jpg" data-caption="Stefan & Virginia<a href='/blog/w_svh/' target='_blank'>View Blog</a><br><small>Blueberry Hills Inn &bull; Goshen, Vermont</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-10sm.jpg" alt="Bride and Groom in the golden rays of sunset"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-11.jpg" data-caption="Chad & Katrina<br><small>Blue Ribbon Cooking &bull; Seattle, Washington</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-11sm.jpg" alt="Bride sneaks a look before the ceremony"></a>
@@ -111,7 +111,7 @@
 			</a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-16.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>&nbsp;View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-16sm.jpg" alt="Bride and Groom twirl in the sunset"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-16.jpg" data-caption="Tristan & Ashley<a href='/blog/w_tar/' target='_blank'>View Blog</a><br><small>Red Rock State Park &bull; Sedona, Arizona</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-16sm.jpg" alt="Bride and Groom twirl in the sunset"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-17.jpg" data-caption="Macy & Cassie<br><small>Quartz Mountain Resort &bull; Lone Wolf, Oklahoma</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-17sm.jpg" alt="Bride cries during Grooms vows"></a></div>
@@ -119,10 +119,10 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-18.jpg" data-caption="Jacky & Amber<br><small>Thompson River Inn &bull; Kamloops, British Columbia</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-18sm.jpg" alt="Asian Bride glows in sunset"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-19.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>&nbsp;View Blog</a><br><small>Wedding at Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-19sm.jpg" alt="Groom gets choked up when he see the Bride in the isle"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-19.jpg" data-caption="Jesse & Brooke<a href='/blog/w_jbo/' target='_blank'>View Blog</a><br><small>Wedding at Red Mountain Ranch &bull; Creede, Colorado</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-19sm.jpg" alt="Groom gets choked up when he see the Bride in the isle"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-20.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>&nbsp;View Blog</a><br><small>Princeville, Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-20sm.jpg" alt="Bride and Groom kiss on the black rocks of Princeville, Hawaii"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-20.jpg" data-caption="Ari & Janet<a href='/blog/w_ajp/' target='_blank'>View Blog</a><br><small>Princeville, Kauai, Hawaii</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-20sm.jpg" alt="Bride and Groom kiss on the black rocks of Princeville, Hawaii"></a>
 			</div>
 			<div class="column">
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-21.jpg" data-caption="Ben & Kari<br><small>Vaals, Neitherlands</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-21sm.jpg" alt="Bride and Groom outstanding in their field"></a>
@@ -134,7 +134,7 @@
 				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-23.jpg" data-caption="Brian & Jocelyn<br><small>Immaculata Cathedral &bull; San Diego, California</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-23sm.jpg" alt="Bride and Groom wave from white limo leaving Immaculata Cathedral"></a>
 			</div>
 			<div class="column">
-				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-24.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>&nbsp;View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-24sm.jpg" alt="Bearded Groom finishes tying his shoes"></a>
+				<a class="fancybox" data-fancybox="group" href="../_img/gallery/candids/candid-24.jpg" data-caption="Scott & Codi<a href='/blog/wedding-scl/' target='_blank'>View Blog</a><br><small>Grand Princess &bull; Playa del Carmen, Mexico</small>"><img class="thumbnail" data-pin-nopin="true" src="../_img/gallery/candids/candid-24sm.jpg" alt="Bearded Groom finishes tying his shoes"></a>
 			</div>
 		</div>
 		

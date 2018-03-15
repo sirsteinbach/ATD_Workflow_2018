@@ -12,7 +12,7 @@
             <option<?php if($thisPage=="Travel")echo" selected";?> value="T">Travel</option>
             <option<?php if($thisPage=="SJF")echo" selected";?> value="SJF">Sonia&rsquo;s Favorites</option>
             <option<?php if($thisPage=="SEF")echo" selected";?> value="SEF">Stephen&rsquo;s Favorites</option>
-            <option<?php if($thisPage=="Boudoir")echo" selected";?> value="X">Boudoir</option>
+            <!--option< ?php if($thisPage=="Boudoir")echo" selected";?> value="X">Boudoir</option-->
          </select>
       </div>
    </div>
@@ -21,16 +21,16 @@
       <div class="input-group">
          <div class="input-group-addon"><i class="fa fa-sort"></i></div>
          <select name="WG_sort" id="WG_sort" class="classic">
-            <option<?php if($thisPage=="WG1")echo" selected";?> value="WG1">Gallery 1</option>
-            <option<?php if($thisPage=="WG2")echo" selected";?> value="WG2">Gallery 2</option>
-            <option<?php if($thisPage=="WG3")echo" selected";?> value="WG3">Gallery 3</option>
-            <option<?php if($thisPage=="WG4")echo" selected";?> value="WG4">Gallery 4</option>
-            <option<?php if($thisPage=="WG5")echo" selected";?> value="WG5">Gallery 5</option>
-            <option<?php if($thisPage=="Candids")echo" selected";?> value="Candids">Candids</option>
-            <option<?php if($thisPage=="Ceremonies")echo" selected";?> value="Ceremonies">Ceremonies</option>
-            <option<?php if($thisPage=="Brides")echo" selected";?> value="Brides">Brides</option>
-            <option<?php if($thisPage=="Details")echo" selected";?> value="Details">Details</option>
-            <option<?php if($thisPage=="Groups")echo" selected";?> value="Groups">Groups</option>
+           <option<?php if($thisPage=="WG1")echo" selected";?> value="WG1">Gallery 1</option>
+           <option<?php if($thisPage=="WG2")echo" selected";?> value="WG2">Gallery 2</option>
+           <option<?php if($thisPage=="WG3")echo" selected";?> value="WG3">Gallery 3</option>
+           <option<?php if($thisPage=="WG4")echo" selected";?> value="WG4">Gallery 4</option>
+           <option<?php if($thisPage=="WG5")echo" selected";?> value="WG5">Gallery 5</option>
+           <option<?php if($thisPage=="Candids")echo" selected";?> value="Candids">Candids</option>
+           <option<?php if($thisPage=="Ceremonies")echo" selected";?> value="Ceremonies">Ceremonies</option>
+           <option<?php if($thisPage=="Brides")echo" selected";?> value="Brides">Brides</option>
+           <option<?php if($thisPage=="Details")echo" selected";?> value="Details">Details</option>
+           <option<?php if($thisPage=="Groups")echo" selected";?> value="Groups">Groups</option>
          </select>
       </div>
    </div>
